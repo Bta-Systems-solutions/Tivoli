@@ -3,182 +3,218 @@
     {
       "id": "BREAKFAST (الفطار)",
       "nameAr": "الفطار",
-      "nameEn": "BREAKFAST"
+      "nameEn": "BREAKFAST",
+      "image": "assets/optimized/categories/category-1.jpg"
     },
     {
       "id": "TOAST (التوست)",
       "nameAr": "التوست",
-      "nameEn": "TOAST"
+      "nameEn": "TOAST",
+      "image": "assets/optimized/categories/category-2.jpg"
     },
     {
       "id": "SOUP (الشوربه)",
       "nameAr": "الشوربه",
-      "nameEn": "SOUP"
+      "nameEn": "SOUP",
+      "image": "assets/optimized/categories/category-3.jpg"
     },
     {
       "id": "SALAD (السلطة)",
       "nameAr": "السلطة",
-      "nameEn": "SALAD"
+      "nameEn": "SALAD",
+      "image": "assets/optimized/categories/category-4.jpg"
     },
     {
       "id": "APPETIZERS (المقبلات)",
       "nameAr": "المقبلات",
-      "nameEn": "APPETIZERS"
+      "nameEn": "APPETIZERS",
+      "image": "assets/optimized/categories/category-5.jpg"
     },
     {
       "id": "CHICKEN أطباق الدجاج",
       "nameAr": "أطباق الدجاج",
-      "nameEn": "CHICKEN"
+      "nameEn": "CHICKEN",
+      "image": "assets/optimized/categories/category-6.jpg"
     },
     {
       "id": "BEEF  البيف",
       "nameAr": "البيف",
-      "nameEn": "BEEF"
+      "nameEn": "BEEF",
+      "image": "assets/optimized/categories/category-7.jpg"
     },
     {
       "id": "SEA  FOOD (البحريات)",
       "nameAr": "البحريات",
-      "nameEn": "SEA  FOOD"
+      "nameEn": "SEA  FOOD",
+      "image": "assets/optimized/categories/category-8.jpg"
     },
     {
       "id": "SIDE EASTERN (الركن الشرقي)",
       "nameAr": "الركن الشرقي",
-      "nameEn": "SIDE EASTERN"
+      "nameEn": "SIDE EASTERN",
+      "image": "assets/optimized/categories/category-9.jpg"
     },
     {
       "id": "PASTA (الباستا)",
       "nameAr": "الباستا",
-      "nameEn": "PASTA"
+      "nameEn": "PASTA",
+      "image": "assets/optimized/categories/category-10.jpg"
     },
     {
       "id": "PIZZA (البيتزا)",
       "nameAr": "البيتزا",
-      "nameEn": "PIZZA"
+      "nameEn": "PIZZA",
+      "image": "assets/optimized/categories/category-11.jpg"
     },
     {
       "id": "CALEZONE (كاليزونى)",
       "nameAr": "كاليزونى",
-      "nameEn": "CALEZONE"
+      "nameEn": "CALEZONE",
+      "image": "assets/optimized/categories/category-12.jpg"
     },
     {
       "id": "SANDWICHES (الساندوتش)",
       "nameAr": "الساندوتش",
-      "nameEn": "SANDWICHES"
+      "nameEn": "SANDWICHES",
+      "image": "assets/optimized/categories/category-13.jpg"
     },
     {
       "id": "CORNER KIDS (ركن الأطفال)",
       "nameAr": "ركن الأطفال",
-      "nameEn": "CORNER KIDS"
+      "nameEn": "CORNER KIDS",
+      "image": "assets/optimized/categories/category-14.jpg"
     },
     {
       "id": "DISHES SIDE (أطباق جانبيه)",
       "nameAr": "أطباق جانبيه",
-      "nameEn": "DISHES SIDE"
+      "nameEn": "DISHES SIDE",
+      "image": "assets/optimized/categories/category-15.jpg"
     },
     {
       "id": "DESSERTS (الحلويات)",
       "nameAr": "الحلويات",
-      "nameEn": "DESSERTS"
+      "nameEn": "DESSERTS",
+      "image": "assets/optimized/categories/category-16.jpg"
     },
     {
       "id": "SOFT DRINKS  (المشروبات الغازيه)",
       "nameAr": "المشروبات الغازيه",
-      "nameEn": "SOFT DRINKS"
+      "nameEn": "SOFT DRINKS",
+      "image": "assets/optimized/categories/category-17.jpg"
     },
     {
       "id": "WAFFLE (الوافل)",
       "nameAr": "الوافل",
-      "nameEn": "WAFFLE"
+      "nameEn": "WAFFLE",
+      "image": "assets/optimized/categories/category-18.jpg"
     },
     {
       "id": "SWEETS LEBANON (حلويات لبناني)",
       "nameAr": "حلويات لبناني",
-      "nameEn": "SWEETS LEBANON"
+      "nameEn": "SWEETS LEBANON",
+      "image": "assets/optimized/categories/category-19.jpg"
     },
     {
       "id": "SALAS FRUIT (سلطات فواكه)",
       "nameAr": "سلطات فواكه",
-      "nameEn": "SALAS FRUIT"
+      "nameEn": "SALAS FRUIT",
+      "image": "assets/optimized/categories/category-20.jpg"
     },
     {
       "id": "CREPE (الكريب)",
       "nameAr": "الكريب",
-      "nameEn": "CREPE"
+      "nameEn": "CREPE",
+      "image": "assets/optimized/categories/category-21.jpg"
     },
     {
       "id": "CAKE PAN (بان كيك)",
       "nameAr": "بان كيك",
-      "nameEn": "CAKE PAN"
+      "nameEn": "CAKE PAN",
+      "image": "assets/optimized/categories/category-22.jpg"
     },
     {
       "id": "SMOOTHIE (سموزي)",
       "nameAr": "سموزي",
-      "nameEn": "SMOOTHIE"
+      "nameEn": "SMOOTHIE",
+      "image": "assets/optimized/categories/category-23.jpg"
     },
     {
       "id": "SODA COCKTAIL (كوكتيل صودا)",
       "nameAr": "كوكتيل صودا",
-      "nameEn": "SODA COCKTAIL"
+      "nameEn": "SODA COCKTAIL",
+      "image": "assets/optimized/categories/category-24.jpg"
     },
     {
       "id": "MILKSHAKES (ميلك شيك)",
       "nameAr": "ميلك شيك",
-      "nameEn": "MILKSHAKES"
+      "nameEn": "MILKSHAKES",
+      "image": "assets/optimized/categories/category-25.jpg"
     },
     {
       "id": "CREAM ICE (أيس كريم)",
       "nameAr": "أيس كريم",
-      "nameEn": "CREAM ICE"
+      "nameEn": "CREAM ICE",
+      "image": "assets/optimized/categories/category-26.jpg"
     },
     {
       "id": "JUICES (عصائر طبيعيه)",
       "nameAr": "عصائر طبيعيه",
-      "nameEn": "JUICES"
+      "nameEn": "JUICES",
+      "image": "assets/optimized/categories/category-27.jpg"
     },
     {
       "id": "COCKTAIL (كوكتيل)",
       "nameAr": "كوكتيل",
-      "nameEn": "COCKTAIL"
+      "nameEn": "COCKTAIL",
+      "image": "assets/optimized/categories/category-28.jpg"
     },
     {
       "id": "COFFEE ICE (أيس كوفي)",
       "nameAr": "أيس كوفي",
-      "nameEn": "COFFEE ICE"
+      "nameEn": "COFFEE ICE",
+      "image": "assets/optimized/categories/category-29.jpg"
     },
     {
       "id": "DRINKS HOT (المشروبات الساخنه)",
       "nameAr": "المشروبات الساخنه",
-      "nameEn": "DRINKS HOT"
+      "nameEn": "DRINKS HOT",
+      "image": "assets/optimized/categories/category-30.jpg"
     },
     {
       "id": "HOT COFFEE (اسبريسو)",
       "nameAr": "اسبريسو",
-      "nameEn": "HOT COFFEE"
+      "nameEn": "HOT COFFEE",
+      "image": "assets/optimized/categories/category-31.jpg"
     },
     {
       "id": "CHOCOLATE HOT (هوت شوكليت)",
       "nameAr": "هوت شوكليت",
-      "nameEn": "CHOCOLATE HOT"
+      "nameEn": "CHOCOLATE HOT",
+      "image": "assets/optimized/categories/category-32.jpg"
     },
     {
       "id": "EXTRAS (الاضافات)",
       "nameAr": "الاضافات",
-      "nameEn": "EXTRAS"
+      "nameEn": "EXTRAS",
+      "image": "assets/optimized/categories/category-33.jpg"
     },
     {
       "id": "HOOKAH (الشيشه)",
       "nameAr": "الشيشه",
-      "nameEn": "HOOKAH"
+      "nameEn": "HOOKAH",
+      "image": "assets/optimized/categories/category-34.jpg"
     },
     {
       "id": "GRILLED (الشواية)",
       "nameAr": "الشواية",
-      "nameEn": "GRILLED"
+      "nameEn": "GRILLED",
+      "image": "assets/optimized/categories/category-35.jpg"
     },
     {
       "id": "ركن الدايت",
       "nameAr": "ركن الدايت",
-      "nameEn": "ركن الدايت"
+      "nameEn": "ركن الدايت",
+      "image": "assets/optimized/categories/category-38.jpg"
     }
   ],
   "products": [
@@ -189,8 +225,9 @@
       "nameEn": "TIVOLI CROISSANT",
       "description": "",
       "price": 130.0,
-      "image": "uploads/products/product_1_1787690264.webp",
-      "imageAlt": "uploads/1783271961_TIVOLI CROISSANT.webp"
+      "image": "assets/optimized/products/product-1.jpg",
+      "imageAlt": "uploads/1783271961_TIVOLI CROISSANT.webp",
+      "originalImage": "uploads/products/product_1_1787690264.webp"
     },
     {
       "id": 2,
@@ -199,8 +236,9 @@
       "nameEn": "SMOKED MEAT CROISSANT",
       "description": "",
       "price": 128.0,
-      "image": "uploads/products/product_2_1787690787.webp",
-      "imageAlt": "uploads/1783272079_SMOKED MEAT CROISSANT.webp"
+      "image": "assets/optimized/products/product-2.jpg",
+      "imageAlt": "uploads/1783272079_SMOKED MEAT CROISSANT.webp",
+      "originalImage": "uploads/products/product_2_1787690787.webp"
     },
     {
       "id": 3,
@@ -209,8 +247,9 @@
       "nameEn": "LIGHT CHICKEN TOAST",
       "description": "",
       "price": 100.0,
-      "image": "uploads/products/product_3_1787691187.webp",
-      "imageAlt": "uploads/1783272089_LIGHT CHICKEN TOAST.webp"
+      "image": "assets/optimized/products/product-3.jpg",
+      "imageAlt": "uploads/1783272089_LIGHT CHICKEN TOAST.webp",
+      "originalImage": "uploads/products/product_3_1787691187.webp"
     },
     {
       "id": 4,
@@ -219,8 +258,9 @@
       "nameEn": "POTATO-EGG ROLL",
       "description": "",
       "price": 84.0,
-      "image": "uploads/products/product_4_1787691103.webp",
-      "imageAlt": "uploads/1783272095_LIGHT EGG TOAST.webp"
+      "image": "assets/optimized/products/product-4.jpg",
+      "imageAlt": "uploads/1783272095_LIGHT EGG TOAST.webp",
+      "originalImage": "uploads/products/product_4_1787691103.webp"
     },
     {
       "id": 5,
@@ -229,8 +269,9 @@
       "nameEn": "POTATO-EGG ROLL",
       "description": "",
       "price": 58.0,
-      "image": "uploads/products/product_5_1787691037.webp",
-      "imageAlt": "uploads/1783279831_POTATO-EGG ROLL.webp"
+      "image": "assets/optimized/products/product-5.jpg",
+      "imageAlt": "uploads/1783279831_POTATO-EGG ROLL.webp",
+      "originalImage": "uploads/products/product_5_1787691037.webp"
     },
     {
       "id": 6,
@@ -239,8 +280,9 @@
       "nameEn": "FLAFEL ROLL",
       "description": "",
       "price": 55.0,
-      "image": "uploads/products/product_6_1787691252.webp",
-      "imageAlt": "uploads/1783272160_FLAFEL ROLL.webp"
+      "image": "assets/optimized/products/product-6.jpg",
+      "imageAlt": "uploads/1783272160_FLAFEL ROLL.webp",
+      "originalImage": "uploads/products/product_6_1787691252.webp"
     },
     {
       "id": 7,
@@ -249,8 +291,9 @@
       "nameEn": "ORIENTAL BREAKFAST",
       "description": "فول، فلافل، بيض، جبنة بالطماطم، عيش",
       "price": 145.0,
-      "image": "uploads/products/product_7_1787691499.webp",
-      "imageAlt": "uploads/1783272277_ORIENTAL BREAKFAST.webp"
+      "image": "assets/optimized/products/product-7.jpg",
+      "imageAlt": "uploads/1783272277_ORIENTAL BREAKFAST.webp",
+      "originalImage": "uploads/products/product_7_1787691499.webp"
     },
     {
       "id": 8,
@@ -259,8 +302,9 @@
       "nameEn": "FARMER BREAKFAST",
       "description": "فطير، عسل وطحينة، جبنة، بيض مسلوق",
       "price": 152.0,
-      "image": "uploads/products/product_8_1787691576.webp",
-      "imageAlt": "uploads/1783272289_FARMER BREAKFAST.webp"
+      "image": "assets/optimized/products/product-8.jpg",
+      "imageAlt": "uploads/1783272289_FARMER BREAKFAST.webp",
+      "originalImage": "uploads/products/product_8_1787691576.webp"
     },
     {
       "id": 9,
@@ -269,8 +313,9 @@
       "nameEn": "MIX CHEESE BREAKFAST",
       "description": "بيض بالأومليت، مشكل جبن، سلطة خضراء، عيش",
       "price": 145.0,
-      "image": "uploads/products/product_9_1787691694.webp",
-      "imageAlt": "uploads/1783272324_MIX CHEESE BREAKFAST.webp"
+      "image": "assets/optimized/products/product-9.jpg",
+      "imageAlt": "uploads/1783272324_MIX CHEESE BREAKFAST.webp",
+      "originalImage": "uploads/products/product_9_1787691694.webp"
     },
     {
       "id": 10,
@@ -279,8 +324,9 @@
       "nameEn": "TIVOLI BREAKFAST",
       "description": "بيض، هوت دوج، بطاطس ويدجز، توست محمص",
       "price": 152.0,
-      "image": "uploads/products/product_10_1787691399.webp",
-      "imageAlt": "uploads/1783272342_TIVOLI BREAKFAST.webp"
+      "image": "assets/optimized/products/product-10.jpg",
+      "imageAlt": "uploads/1783272342_TIVOLI BREAKFAST.webp",
+      "originalImage": "uploads/products/product_10_1787691399.webp"
     },
     {
       "id": 11,
@@ -289,8 +335,9 @@
       "nameEn": "Club Sandwich",
       "description": "",
       "price": 174.0,
-      "image": "uploads/products/product_11_1787693009.webp",
-      "imageAlt": "uploads/1783272381_club sandwich.webp"
+      "image": "assets/optimized/products/product-11.jpg",
+      "imageAlt": "uploads/1783272381_club sandwich.webp",
+      "originalImage": "uploads/products/product_11_1787693009.webp"
     },
     {
       "id": 12,
@@ -299,8 +346,9 @@
       "nameEn": "Mix Cheese Pastrami",
       "description": "",
       "price": 135.0,
-      "image": "uploads/products/product_12_1787692966.webp",
-      "imageAlt": "uploads/1783272395_Mix Cheese Pastram Toast.webp"
+      "image": "assets/optimized/products/product-12.jpg",
+      "imageAlt": "uploads/1783272395_Mix Cheese Pastram Toast.webp",
+      "originalImage": "uploads/products/product_12_1787692966.webp"
     },
     {
       "id": 13,
@@ -309,8 +357,9 @@
       "nameEn": "Mix Cheese Toast",
       "description": "",
       "price": 128.0,
-      "image": "uploads/products/product_13_1787692907.webp",
-      "imageAlt": "uploads/1783272458_Mix Cheese Toast.webp"
+      "image": "assets/optimized/products/product-13.jpg",
+      "imageAlt": "uploads/1783272458_Mix Cheese Toast.webp",
+      "originalImage": "uploads/products/product_13_1787692907.webp"
     },
     {
       "id": 14,
@@ -319,8 +368,9 @@
       "nameEn": "Smoked Turkey Toast",
       "description": "",
       "price": 145.0,
-      "image": "uploads/products/product_14_1787692749.webp",
-      "imageAlt": "uploads/1783272411_Smoked Turkey Toast.webp"
+      "image": "assets/optimized/products/product-14.jpg",
+      "imageAlt": "uploads/1783272411_Smoked Turkey Toast.webp",
+      "originalImage": "uploads/products/product_14_1787692749.webp"
     },
     {
       "id": 15,
@@ -329,8 +379,9 @@
       "nameEn": "Chicken Toast",
       "description": "",
       "price": 145.0,
-      "image": "uploads/products/product_15_1787692842.webp",
-      "imageAlt": "uploads/1783272422_Chicken Toast.webp"
+      "image": "assets/optimized/products/product-15.jpg",
+      "imageAlt": "uploads/1783272422_Chicken Toast.webp",
+      "originalImage": "uploads/products/product_15_1787692842.webp"
     },
     {
       "id": 16,
@@ -339,8 +390,9 @@
       "nameEn": "CHICKEN CREAM MASHROOM",
       "description": "",
       "price": 130.0,
-      "image": "uploads/products/product_16_1787693306.webp",
-      "imageAlt": "uploads/1783272513_CHICKEN CREAM MASHROOM.webp"
+      "image": "assets/optimized/products/product-16.jpg",
+      "imageAlt": "uploads/1783272513_CHICKEN CREAM MASHROOM.webp",
+      "originalImage": "uploads/products/product_16_1787693306.webp"
     },
     {
       "id": 17,
@@ -349,8 +401,9 @@
       "nameEn": "ONION SOUP",
       "description": "",
       "price": 79.0,
-      "image": "uploads/products/product_17_1787693409.webp",
-      "imageAlt": "uploads/1783272527_ONION SOUP.webp"
+      "image": "assets/optimized/products/product-17.jpg",
+      "imageAlt": "uploads/1783272527_ONION SOUP.webp",
+      "originalImage": "uploads/products/product_17_1787693409.webp"
     },
     {
       "id": 18,
@@ -359,8 +412,9 @@
       "nameEn": "NUDELLS SOUP",
       "description": "",
       "price": 79.0,
-      "image": "uploads/products/product_18_1787693487.webp",
-      "imageAlt": "uploads/1783272533_NUDELLS SOUP .webp"
+      "image": "assets/optimized/products/product-18.jpg",
+      "imageAlt": "uploads/1783272533_NUDELLS SOUP .webp",
+      "originalImage": "uploads/products/product_18_1787693487.webp"
     },
     {
       "id": 19,
@@ -369,8 +423,9 @@
       "nameEn": "MINISTRONY",
       "description": "",
       "price": 79.0,
-      "image": "uploads/products/product_19_1787693591.webp",
-      "imageAlt": "uploads/1783272544_MINISTRONY.webp"
+      "image": "assets/optimized/products/product-19.jpg",
+      "imageAlt": "uploads/1783272544_MINISTRONY.webp",
+      "originalImage": "uploads/products/product_19_1787693591.webp"
     },
     {
       "id": 20,
@@ -379,8 +434,9 @@
       "nameEn": "Pickles",
       "description": "",
       "price": 40.0,
-      "image": "uploads/products/product_20_1787694842.webp",
-      "imageAlt": "uploads/1783272564_Pickles .webp"
+      "image": "assets/optimized/products/product-20.jpg",
+      "imageAlt": "uploads/1783272564_Pickles .webp",
+      "originalImage": "uploads/products/product_20_1787694842.webp"
     },
     {
       "id": 21,
@@ -389,8 +445,9 @@
       "nameEn": "Ghanog",
       "description": "",
       "price": 51.0,
-      "image": "uploads/products/product_21_1787694493.webp",
-      "imageAlt": "uploads/1783272571_Ghanog copy.webp"
+      "image": "assets/optimized/products/product-21.jpg",
+      "imageAlt": "uploads/1783272571_Ghanog copy.webp",
+      "originalImage": "uploads/products/product_21_1787694493.webp"
     },
     {
       "id": 22,
@@ -399,8 +456,9 @@
       "nameEn": "Clowslow",
       "description": "",
       "price": 58.0,
-      "image": "uploads/products/product_22_1787694768.webp",
-      "imageAlt": "uploads/1783272580_Clowslow.webp"
+      "image": "assets/optimized/products/product-22.jpg",
+      "imageAlt": "uploads/1783272580_Clowslow.webp",
+      "originalImage": "uploads/products/product_22_1787694768.webp"
     },
     {
       "id": 23,
@@ -409,8 +467,9 @@
       "nameEn": "Tahynah",
       "description": "",
       "price": 51.0,
-      "image": "uploads/products/product_23_1787694458.webp",
-      "imageAlt": "uploads/1783272586_Tahynah Salad.webp"
+      "image": "assets/optimized/products/product-23.jpg",
+      "imageAlt": "uploads/1783272586_Tahynah Salad.webp",
+      "originalImage": "uploads/products/product_23_1787694458.webp"
     },
     {
       "id": 24,
@@ -419,8 +478,9 @@
       "nameEn": "Green Salad",
       "description": "",
       "price": 51.0,
-      "image": "uploads/products/product_24_1787694361.webp",
-      "imageAlt": "uploads/1783272598_Green Salad.webp"
+      "image": "assets/optimized/products/product-24.jpg",
+      "imageAlt": "uploads/1783272598_Green Salad.webp",
+      "originalImage": "uploads/products/product_24_1787694361.webp"
     },
     {
       "id": 25,
@@ -429,8 +489,9 @@
       "nameEn": "Chrimp Ceaser",
       "description": "",
       "price": 182.0,
-      "image": "uploads/products/product_25_1787694734.webp",
-      "imageAlt": "uploads/1783272610_Chrimp cease Salad.webp"
+      "image": "assets/optimized/products/product-25.jpg",
+      "imageAlt": "uploads/1783272610_Chrimp cease Salad.webp",
+      "originalImage": "uploads/products/product_25_1787694734.webp"
     },
     {
       "id": 26,
@@ -439,8 +500,9 @@
       "nameEn": "Tivoli Salad",
       "description": "",
       "price": 152.0,
-      "image": "uploads/products/product_26_1787694094.webp",
-      "imageAlt": "uploads/1783272627_Tivoli Salad.webp"
+      "image": "assets/optimized/products/product-26.jpg",
+      "imageAlt": "uploads/1783272627_Tivoli Salad.webp",
+      "originalImage": "uploads/products/product_26_1787694094.webp"
     },
     {
       "id": 27,
@@ -449,8 +511,9 @@
       "nameEn": "Chicken Ceaser",
       "description": "",
       "price": 145.0,
-      "image": "uploads/products/product_27_1787693893.webp",
-      "imageAlt": "uploads/1783272655_Chicken ceaser.webp"
+      "image": "assets/optimized/products/product-27.jpg",
+      "imageAlt": "uploads/1783272655_Chicken ceaser.webp",
+      "originalImage": "uploads/products/product_27_1787693893.webp"
     },
     {
       "id": 28,
@@ -459,8 +522,9 @@
       "nameEn": "Greek Salad",
       "description": "",
       "price": 110.0,
-      "image": "uploads/products/product_28_1787694127.webp",
-      "imageAlt": "uploads/1783272665_Greek Salad.webp"
+      "image": "assets/optimized/products/product-28.jpg",
+      "imageAlt": "uploads/1783272665_Greek Salad.webp",
+      "originalImage": "uploads/products/product_28_1787694127.webp"
     },
     {
       "id": 29,
@@ -469,8 +533,9 @@
       "nameEn": "SPICY POTATO WITH CORIANDER",
       "description": "",
       "price": 97.0,
-      "image": "uploads/products/product_29_1787695317.webp",
-      "imageAlt": "uploads/1783272736_CHEESE FRENCH FRIES.webp"
+      "image": "assets/optimized/products/product-29.jpg",
+      "imageAlt": "uploads/1783272736_CHEESE FRENCH FRIES.webp",
+      "originalImage": "uploads/products/product_29_1787695317.webp"
     },
     {
       "id": 30,
@@ -479,8 +544,9 @@
       "nameEn": "CHEESE FRENCH FRIES",
       "description": "",
       "price": 91.0,
-      "image": "uploads/products/product_30_1787695600.webp",
-      "imageAlt": "uploads/1783272684_CHEESE FRENCH FRIES.webp"
+      "image": "assets/optimized/products/product-30.jpg",
+      "imageAlt": "uploads/1783272684_CHEESE FRENCH FRIES.webp",
+      "originalImage": "uploads/products/product_30_1787695600.webp"
     },
     {
       "id": 31,
@@ -489,8 +555,9 @@
       "nameEn": "MEAT SAMPOSEK",
       "description": "",
       "price": 112.0,
-      "image": "uploads/products/product_31_1787695539.webp",
-      "imageAlt": "uploads/1783272696_MEAT SAMPOSEK.webp"
+      "image": "assets/optimized/products/product-31.jpg",
+      "imageAlt": "uploads/1783272696_MEAT SAMPOSEK.webp",
+      "originalImage": "uploads/products/product_31_1787695539.webp"
     },
     {
       "id": 32,
@@ -499,8 +566,9 @@
       "nameEn": "CHEESE SAMPOSEK",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_32_1787695475.webp",
-      "imageAlt": "uploads/1783272702_CHEESE SAMPOSEK .webp"
+      "image": "assets/optimized/products/product-32.jpg",
+      "imageAlt": "uploads/1783272702_CHEESE SAMPOSEK .webp",
+      "originalImage": "uploads/products/product_32_1787695475.webp"
     },
     {
       "id": 33,
@@ -509,8 +577,9 @@
       "nameEn": "SPRING ROLL",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_33_1787695422.webp",
-      "imageAlt": "uploads/1783272713_SPRING ROLL.webp"
+      "image": "assets/optimized/products/product-33.jpg",
+      "imageAlt": "uploads/1783272713_SPRING ROLL.webp",
+      "originalImage": "uploads/products/product_33_1787695422.webp"
     },
     {
       "id": 34,
@@ -519,8 +588,9 @@
       "nameEn": "Chicken Panne",
       "description": "",
       "price": 386.0,
-      "image": "uploads/products/product_34_1787695940.webp",
-      "imageAlt": "uploads/1783272763_Chicken Pane.webp"
+      "image": "assets/optimized/products/product-34.jpg",
+      "imageAlt": "uploads/1783272763_Chicken Pane.webp",
+      "originalImage": "uploads/products/product_34_1787695940.webp"
     },
     {
       "id": 35,
@@ -529,8 +599,9 @@
       "nameEn": "Chicken Piccata Tivoli",
       "description": "بيكاتا وايت صوص وبسطرمة",
       "price": 391.0,
-      "image": "uploads/products/product_35_1787696479.webp",
-      "imageAlt": "uploads/1783275373_Chicken Piccata Tivoli.webp"
+      "image": "assets/optimized/products/product-35.jpg",
+      "imageAlt": "uploads/1783275373_Chicken Piccata Tivoli.webp",
+      "originalImage": "uploads/products/product_35_1787696479.webp"
     },
     {
       "id": 36,
@@ -539,8 +610,9 @@
       "nameEn": "Smoked Chicken Scalopini",
       "description": "صدور فراخ مقلية مع بيف وتركي مدخن",
       "price": 391.0,
-      "image": "uploads/products/product_36_1787696424.webp",
-      "imageAlt": "uploads/1783275403_Chicken Scalopini.webp"
+      "image": "assets/optimized/products/product-36.jpg",
+      "imageAlt": "uploads/1783275403_Chicken Scalopini.webp",
+      "originalImage": "uploads/products/product_36_1787696424.webp"
     },
     {
       "id": 37,
@@ -549,8 +621,9 @@
       "nameEn": "Half Grilled Chicken",
       "description": "",
       "price": 235.0,
-      "image": "uploads/products/product_37_1787696351.webp",
-      "imageAlt": "uploads/1783275428_Half grilled chicken.webp"
+      "image": "assets/optimized/products/product-37.jpg",
+      "imageAlt": "uploads/1783275428_Half grilled chicken.webp",
+      "originalImage": "uploads/products/product_37_1787696351.webp"
     },
     {
       "id": 38,
@@ -559,8 +632,9 @@
       "nameEn": "Shish Tawook",
       "description": "وراك فراخ مخلية مشوية على الفحم",
       "price": 319.0,
-      "image": "uploads/products/product_38_1787696288.webp",
-      "imageAlt": "uploads/1783275471_Shish tawook.webp"
+      "image": "assets/optimized/products/product-38.jpg",
+      "imageAlt": "uploads/1783275471_Shish tawook.webp",
+      "originalImage": "uploads/products/product_38_1787696288.webp"
     },
     {
       "id": 39,
@@ -569,8 +643,9 @@
       "nameEn": "Chicken Boaver",
       "description": "فراخ مشوية بصوص الفلفل المجروش والديمي جلاس",
       "price": 378.0,
-      "image": "uploads/products/product_39_1787696002.webp",
-      "imageAlt": "uploads/1783275484_Chicken boaver.webp"
+      "image": "assets/optimized/products/product-39.jpg",
+      "imageAlt": "uploads/1783275484_Chicken boaver.webp",
+      "originalImage": "uploads/products/product_39_1787696002.webp"
     },
     {
       "id": 40,
@@ -579,8 +654,9 @@
       "nameEn": "Chicken Fajita",
       "description": "فراخ مشوية بالفلفل والبصل والمشروم بصوص الباربكيو",
       "price": 347.0,
-      "image": "uploads/products/product_40_1787696178.webp",
-      "imageAlt": "uploads/1783275489_Chicken fajita.webp"
+      "image": "assets/optimized/products/product-40.jpg",
+      "imageAlt": "uploads/1783275489_Chicken fajita.webp",
+      "originalImage": "uploads/products/product_40_1787696178.webp"
     },
     {
       "id": 41,
@@ -589,8 +665,9 @@
       "nameEn": "Chicken Piccata",
       "description": "فراخ مشوية بصوص مشروم براون",
       "price": 378.0,
-      "image": "uploads/products/product_41_1787696504.webp",
-      "imageAlt": "uploads/1783275504_Chicken Piccata.webp"
+      "image": "assets/optimized/products/product-41.jpg",
+      "imageAlt": "uploads/1783275504_Chicken Piccata.webp",
+      "originalImage": "uploads/products/product_41_1787696504.webp"
     },
     {
       "id": 42,
@@ -599,8 +676,9 @@
       "nameEn": "Chicken Curry",
       "description": "فراخ مشوية بصوص الكاري وفلفل ألوان",
       "price": 371.0,
-      "image": "uploads/products/product_42_1787696575.webp",
-      "imageAlt": "uploads/1783279796_Chicken curry.webp"
+      "image": "assets/optimized/products/product-42.jpg",
+      "imageAlt": "uploads/1783279796_Chicken curry.webp",
+      "originalImage": "uploads/products/product_42_1787696575.webp"
     },
     {
       "id": 43,
@@ -609,8 +687,9 @@
       "nameEn": "Chicken Scalopini",
       "description": "فراخ كريسبي، وايت صوص بالمشروم، فلفل ألوان",
       "price": 371.0,
-      "image": "uploads/products/product_43_1787696553.webp",
-      "imageAlt": "uploads/1783275517_Chicken Scalopin.webp"
+      "image": "assets/optimized/products/product-43.jpg",
+      "imageAlt": "uploads/1783275517_Chicken Scalopin.webp",
+      "originalImage": "uploads/products/product_43_1787696553.webp"
     },
     {
       "id": 44,
@@ -619,8 +698,9 @@
       "nameEn": "Chicken Shrimp",
       "description": "فراخ مشوية، جمبري، وايت صوص، فلفل ألوان",
       "price": 447.0,
-      "image": "uploads/products/product_44_1787696047.webp",
-      "imageAlt": "uploads/1783275530_Chicken Shrimp.webp"
+      "image": "assets/optimized/products/product-44.jpg",
+      "imageAlt": "uploads/1783275530_Chicken Shrimp.webp",
+      "originalImage": "uploads/products/product_44_1787696047.webp"
     },
     {
       "id": 45,
@@ -629,8 +709,9 @@
       "nameEn": "Corden Blu",
       "description": "فراخ محشية جبنة موتزاريلا، تركي مدخن، سموك بيف",
       "price": 409.0,
-      "image": "uploads/products/product_45_1787696125.webp",
-      "imageAlt": "uploads/1783275540_Corden Blu.webp"
+      "image": "assets/optimized/products/product-45.jpg",
+      "imageAlt": "uploads/1783275540_Corden Blu.webp",
+      "originalImage": "uploads/products/product_45_1787696125.webp"
     },
     {
       "id": 46,
@@ -639,8 +720,9 @@
       "nameEn": "Chicken Garlic & Oregano",
       "description": "صدور فراخ مشوية بالزعتر والثوم",
       "price": 356.0,
-      "image": "uploads/products/product_46_1787696024.webp",
-      "imageAlt": "uploads/1783275548_Chicken garlic & organo.webp"
+      "image": "assets/optimized/products/product-46.jpg",
+      "imageAlt": "uploads/1783275548_Chicken garlic & organo.webp",
+      "originalImage": "uploads/products/product_46_1787696024.webp"
     },
     {
       "id": 47,
@@ -649,8 +731,9 @@
       "nameEn": "Chicken Parmesan",
       "description": "فراخ بانيه، جبنة بارميزان، صوص طماطم",
       "price": 371.0,
-      "image": "uploads/products/product_47_1787695655.webp",
-      "imageAlt": "uploads/1783275598_Chicken Palermo.webp"
+      "image": "assets/optimized/products/product-47.jpg",
+      "imageAlt": "uploads/1783275598_Chicken Palermo.webp",
+      "originalImage": "uploads/products/product_47_1787695655.webp"
     },
     {
       "id": 48,
@@ -659,8 +742,9 @@
       "nameEn": "Tivoli Chicken",
       "description": "دجاج مشوي، خضروات، جبنة تيفولي",
       "price": 371.0,
-      "image": "uploads/products/product_48_1787696083.webp",
-      "imageAlt": "uploads/1783275630_Tivoli Chicken.webp"
+      "image": "assets/optimized/products/product-48.jpg",
+      "imageAlt": "uploads/1783275630_Tivoli Chicken.webp",
+      "originalImage": "uploads/products/product_48_1787696083.webp"
     },
     {
       "id": 49,
@@ -669,8 +753,9 @@
       "nameEn": "Chicken Pickless",
       "description": "دجاج مشوي، بسطرمة، خضروات",
       "price": 371.0,
-      "image": "uploads/products/product_49_1787696525.webp",
-      "imageAlt": "uploads/1783275701_Chicken boaver.webp"
+      "image": "assets/optimized/products/product-49.jpg",
+      "imageAlt": "uploads/1783275701_Chicken boaver.webp",
+      "originalImage": "uploads/products/product_49_1787696525.webp"
     },
     {
       "id": 50,
@@ -679,8 +764,9 @@
       "nameEn": "Chicken Mixecan",
       "description": "دجاج مشوي، خضروات",
       "price": 371.0,
-      "image": "uploads/products/product_50_1787696104.webp",
-      "imageAlt": "uploads/1783275711_Chicken Mixecan.webp"
+      "image": "assets/optimized/products/product-50.jpg",
+      "imageAlt": "uploads/1783275711_Chicken Mixecan.webp",
+      "originalImage": "uploads/products/product_50_1787696104.webp"
     },
     {
       "id": 51,
@@ -689,8 +775,9 @@
       "nameEn": "Chicken Palermo",
       "description": "دجاج مشوي، خضروات، صوص مكسيكي",
       "price": 371.0,
-      "image": "uploads/products/product_51_1787695676.webp",
-      "imageAlt": "uploads/1783275743_Chicken Palermo.webp"
+      "image": "assets/optimized/products/product-51.jpg",
+      "imageAlt": "uploads/1783275743_Chicken Palermo.webp",
+      "originalImage": "uploads/products/product_51_1787695676.webp"
     },
     {
       "id": 52,
@@ -699,8 +786,9 @@
       "nameEn": "Butter Beef",
       "description": "",
       "price": 500.0,
-      "image": "uploads/products/product_52_1787697159.jpg",
-      "imageAlt": "uploads/1783279943_1782827865_Beef Fille.webp"
+      "image": "assets/optimized/products/product-52.jpg",
+      "imageAlt": "uploads/1783279943_1782827865_Beef Fille.webp",
+      "originalImage": "uploads/products/product_52_1787697159.jpg"
     },
     {
       "id": 53,
@@ -709,8 +797,9 @@
       "nameEn": "Beef Fillet Blue Cheese",
       "description": "بيف وايت صوص مع ميكس تشيز، أو بيف وايت صوص وبسطرمة",
       "price": 520.0,
-      "image": "uploads/products/product_53_1787696710.webp",
-      "imageAlt": "uploads/1783279947_1782827865_Beef Fille.webp"
+      "image": "assets/optimized/products/product-53.jpg",
+      "imageAlt": "uploads/1783279947_1782827865_Beef Fille.webp",
+      "originalImage": "uploads/products/product_53_1787696710.webp"
     },
     {
       "id": 54,
@@ -719,8 +808,9 @@
       "nameEn": "Beef Fillet Tivoli",
       "description": "بيكاتا وايت صوص وبسطرمة",
       "price": 520.0,
-      "image": "uploads/products/product_54_1787696745.webp",
-      "imageAlt": "uploads/1783279950_1782827865_Beef Fille.webp"
+      "image": "assets/optimized/products/product-54.jpg",
+      "imageAlt": "uploads/1783279950_1782827865_Beef Fille.webp",
+      "originalImage": "uploads/products/product_54_1787696745.webp"
     },
     {
       "id": 55,
@@ -729,8 +819,9 @@
       "nameEn": "Beef Piccata Tivoli",
       "description": "بيكاتا وايت صوص وبسطرمة",
       "price": 485.0,
-      "image": "uploads/products/product_55_1787696675.webp",
-      "imageAlt": "uploads/1783261015_1782828154_Fillet Charlotte.webp"
+      "image": "assets/optimized/products/product-55.jpg",
+      "imageAlt": "uploads/1783261015_1782828154_Fillet Charlotte.webp",
+      "originalImage": "uploads/products/product_55_1787696675.webp"
     },
     {
       "id": 56,
@@ -739,8 +830,9 @@
       "nameEn": "Grilled Kapap",
       "description": "",
       "price": 486.0,
-      "image": "uploads/products/product_56_1787697029.jpg",
-      "imageAlt": "uploads/1783261023_1782828137_Chicken & Kofta.webp"
+      "image": "assets/optimized/products/product-56.jpg",
+      "imageAlt": "uploads/1783261023_1782828137_Chicken & Kofta.webp",
+      "originalImage": "uploads/products/product_56_1787697029.jpg"
     },
     {
       "id": 57,
@@ -749,8 +841,9 @@
       "nameEn": "Grilled Kofta",
       "description": "",
       "price": 416.0,
-      "image": "uploads/products/product_57_1787696865.jpg",
-      "imageAlt": "uploads/1783261035_1782828137_Chicken & Kofta.webp"
+      "image": "assets/optimized/products/product-57.jpg",
+      "imageAlt": "uploads/1783261035_1782828137_Chicken & Kofta.webp",
+      "originalImage": "uploads/products/product_57_1787696865.jpg"
     },
     {
       "id": 58,
@@ -759,8 +852,9 @@
       "nameEn": "Chicken & Kofta",
       "description": "",
       "price": 416.0,
-      "image": "uploads/products/product_58_1787696914.jpg",
-      "imageAlt": "uploads/1783261041_1782828180_Beef Faji.webp"
+      "image": "assets/optimized/products/product-58.jpg",
+      "imageAlt": "uploads/1783261041_1782828180_Beef Faji.webp",
+      "originalImage": "uploads/products/product_58_1787696914.jpg"
     },
     {
       "id": 59,
@@ -769,8 +863,9 @@
       "nameEn": "Mix Grill",
       "description": "",
       "price": 527.0,
-      "image": "uploads/products/product_59_1787696971.jpg",
-      "imageAlt": "uploads/1783261053_1782828244_Shrimp Fahitta.webp"
+      "image": "assets/optimized/products/product-59.jpg",
+      "imageAlt": "uploads/1783261053_1782828244_Shrimp Fahitta.webp",
+      "originalImage": "uploads/products/product_59_1787696971.jpg"
     },
     {
       "id": 60,
@@ -779,8 +874,9 @@
       "nameEn": "Beef Fajitta",
       "description": "",
       "price": 506.0,
-      "image": "uploads/products/product_60_1787697301.webp",
-      "imageAlt": "uploads/1783279975_1782828180_Beef Faji.webp"
+      "image": "assets/optimized/products/product-60.jpg",
+      "imageAlt": "uploads/1783279975_1782828180_Beef Faji.webp",
+      "originalImage": "uploads/products/product_60_1787697301.webp"
     },
     {
       "id": 61,
@@ -789,8 +885,9 @@
       "nameEn": "Beef Fillet",
       "description": "",
       "price": 520.0,
-      "image": "uploads/products/product_61_1787697231.jpg",
-      "imageAlt": "uploads/1782828199_Beef Fille.webp"
+      "image": "assets/optimized/products/product-61.jpg",
+      "imageAlt": "uploads/1782828199_Beef Fille.webp",
+      "originalImage": "uploads/products/product_61_1787697231.jpg"
     },
     {
       "id": 62,
@@ -799,8 +896,9 @@
       "nameEn": "Piccata Mashroom",
       "description": "",
       "price": 485.0,
-      "image": "uploads/products/product_62_1787697460.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-62.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_62_1787697460.jpg"
     },
     {
       "id": 63,
@@ -809,8 +907,9 @@
       "nameEn": "Fillet Charllout",
       "description": "",
       "price": 485.0,
-      "image": "uploads/products/product_63_1787697074.jpg",
-      "imageAlt": "uploads/1782828154_Fillet Charlotte.webp"
+      "image": "assets/optimized/products/product-63.jpg",
+      "imageAlt": "uploads/1782828154_Fillet Charlotte.webp",
+      "originalImage": "uploads/products/product_63_1787697074.jpg"
     },
     {
       "id": 64,
@@ -819,8 +918,9 @@
       "nameEn": "Beef Istgranof",
       "description": "",
       "price": 451.0,
-      "image": "uploads/products/product_64_1787697376.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-64.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_64_1787697376.jpg"
     },
     {
       "id": 65,
@@ -829,8 +929,9 @@
       "nameEn": "Scallop Pane",
       "description": "",
       "price": 457.0,
-      "image": "uploads/products/product_65_1787697415.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-65.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_65_1787697415.jpg"
     },
     {
       "id": 66,
@@ -839,8 +940,9 @@
       "nameEn": "Grilled Shrimp",
       "description": "",
       "price": 650.0,
-      "image": "uploads/products/product_66_1787697625.webp",
-      "imageAlt": "uploads/1783276359_1782828234_Grilled Shrimp.webp"
+      "image": "assets/optimized/products/product-66.jpg",
+      "imageAlt": "uploads/1783276359_1782828234_Grilled Shrimp.webp",
+      "originalImage": "uploads/products/product_66_1787697625.webp"
     },
     {
       "id": 67,
@@ -849,8 +951,9 @@
       "nameEn": "Shrimp Fahitta",
       "description": "",
       "price": 700.0,
-      "image": "uploads/products/product_67_1787697721.webp",
-      "imageAlt": "uploads/1783276386_1782828244_Shrimp Fahitta.webp"
+      "image": "assets/optimized/products/product-67.jpg",
+      "imageAlt": "uploads/1783276386_1782828244_Shrimp Fahitta.webp",
+      "originalImage": "uploads/products/product_67_1787697721.webp"
     },
     {
       "id": 68,
@@ -859,8 +962,9 @@
       "nameEn": "Stuffed Grape Leaves",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_68_1787767006.webp",
-      "imageAlt": "uploads/1783275810_war2  3enab.webp"
+      "image": "assets/optimized/products/product-68.jpg",
+      "imageAlt": "uploads/1783275810_war2  3enab.webp",
+      "originalImage": "uploads/products/product_68_1787767006.webp"
     },
     {
       "id": 69,
@@ -869,8 +973,9 @@
       "nameEn": "Mixed vegetables",
       "description": "",
       "price": 151.0,
-      "image": "uploads/products/product_69_1787765854.webp",
-      "imageAlt": "uploads/1783275817_khodar me.webp"
+      "image": "assets/optimized/products/product-69.jpg",
+      "imageAlt": "uploads/1783275817_khodar me.webp",
+      "originalImage": "uploads/products/product_69_1787765854.webp"
     },
     {
       "id": 70,
@@ -879,8 +984,9 @@
       "nameEn": "TROTTERS FATA",
       "description": "",
       "price": 520.0,
-      "image": "uploads/products/product_70_1787766086.jpeg",
-      "imageAlt": "uploads/1783275891_moza dany war2.webp"
+      "image": "assets/optimized/products/product-70.jpg",
+      "imageAlt": "uploads/1783275891_moza dany war2.webp",
+      "originalImage": "uploads/products/product_70_1787766086.jpeg"
     },
     {
       "id": 71,
@@ -889,8 +995,9 @@
       "nameEn": "Shank Stuffed Grape Leaves",
       "description": "",
       "price": 520.0,
-      "image": "uploads/products/product_71_1787766247.webp",
-      "imageAlt": "uploads/1783275916_moza dany war2.webp"
+      "image": "assets/optimized/products/product-71.jpg",
+      "imageAlt": "uploads/1783275916_moza dany war2.webp",
+      "originalImage": "uploads/products/product_71_1787766247.webp"
     },
     {
       "id": 72,
@@ -899,8 +1006,9 @@
       "nameEn": "Lamb Shank with Stuffed Grape Leaves",
       "description": "",
       "price": 570.0,
-      "image": "uploads/products/product_72_1787766901.webp",
-      "imageAlt": "uploads/1783275942_moza wara2.webp"
+      "image": "assets/optimized/products/product-72.jpg",
+      "imageAlt": "uploads/1783275942_moza wara2.webp",
+      "originalImage": "uploads/products/product_72_1787766901.webp"
     },
     {
       "id": 73,
@@ -909,8 +1017,9 @@
       "nameEn": "Shank with Stuffed Grape Leaves",
       "description": "",
       "price": 545.0,
-      "image": "uploads/products/product_73_1787766956.webp",
-      "imageAlt": "uploads/1783279855_moza wara2.webp"
+      "image": "assets/optimized/products/product-73.jpg",
+      "imageAlt": "uploads/1783279855_moza wara2.webp",
+      "originalImage": "uploads/products/product_73_1787766956.webp"
     },
     {
       "id": 74,
@@ -919,8 +1028,9 @@
       "nameEn": "Grape Leaves With Oxtail",
       "description": "",
       "price": 520.0,
-      "image": "uploads/products/product_74_1787766400.webp",
-      "imageAlt": "uploads/1783275979_3akawy wara2.webp"
+      "image": "assets/optimized/products/product-74.jpg",
+      "imageAlt": "uploads/1783275979_3akawy wara2.webp",
+      "originalImage": "uploads/products/product_74_1787766400.webp"
     },
     {
       "id": 75,
@@ -929,8 +1039,9 @@
       "nameEn": "PLAIN POTATO",
       "description": "",
       "price": 135.0,
-      "image": "uploads/products/product_75_1787765680.webp",
-      "imageAlt": "uploads/1783276041_poteto.webp"
+      "image": "assets/optimized/products/product-75.jpg",
+      "imageAlt": "uploads/1783276041_poteto.webp",
+      "originalImage": "uploads/products/product_75_1787765680.webp"
     },
     {
       "id": 76,
@@ -939,8 +1050,9 @@
       "nameEn": "PLAIN MOLOKHIA",
       "description": "",
       "price": 114.0,
-      "image": "uploads/products/product_76_1787766680.webp",
-      "imageAlt": "uploads/1783276098_molokhia.webp"
+      "image": "assets/optimized/products/product-76.jpg",
+      "imageAlt": "uploads/1783276098_molokhia.webp",
+      "originalImage": "uploads/products/product_76_1787766680.webp"
     },
     {
       "id": 77,
@@ -949,8 +1061,9 @@
       "nameEn": "MEAT PAPER",
       "description": "",
       "price": 490.0,
-      "image": "uploads/products/product_77_1787767235.webp",
-      "imageAlt": "uploads/1783276110_wara2et lahma.webp"
+      "image": "assets/optimized/products/product-77.jpg",
+      "imageAlt": "uploads/1783276110_wara2et lahma.webp",
+      "originalImage": "uploads/products/product_77_1787767235.webp"
     },
     {
       "id": 78,
@@ -959,8 +1072,9 @@
       "nameEn": "POTATO WITH MEAT",
       "description": "",
       "price": 435.0,
-      "image": "uploads/products/product_78_1787765621.webp",
-      "imageAlt": "uploads/1783276126_LAMP SHANK FATA.webp"
+      "image": "assets/optimized/products/product-78.jpg",
+      "imageAlt": "uploads/1783276126_LAMP SHANK FATA.webp",
+      "originalImage": "uploads/products/product_78_1787765621.webp"
     },
     {
       "id": 79,
@@ -969,8 +1083,9 @@
       "nameEn": "SHANK FATA",
       "description": "",
       "price": 500.0,
-      "image": "uploads/products/product_79_1787766519.webp",
-      "imageAlt": "uploads/1783276139_LAMP SHANK FATAa.webp"
+      "image": "assets/optimized/products/product-79.jpg",
+      "imageAlt": "uploads/1783276139_LAMP SHANK FATAa.webp",
+      "originalImage": "uploads/products/product_79_1787766519.webp"
     },
     {
       "id": 80,
@@ -979,8 +1094,9 @@
       "nameEn": "Shank with Onions",
       "description": "",
       "price": 520.0,
-      "image": "uploads/products/product_80_1787766829.webp",
-      "imageAlt": "uploads/1783276171_moza onen.webp"
+      "image": "assets/optimized/products/product-80.jpg",
+      "imageAlt": "uploads/1783276171_moza onen.webp",
+      "originalImage": "uploads/products/product_80_1787766829.webp"
     },
     {
       "id": 81,
@@ -989,8 +1105,9 @@
       "nameEn": "OX TALE WITH POTATO",
       "description": "",
       "price": 520.0,
-      "image": "uploads/products/product_81_1787766332.webp",
-      "imageAlt": "uploads/1783276158_LAMP SHANK FATA.webp"
+      "image": "assets/optimized/products/product-81.jpg",
+      "imageAlt": "uploads/1783276158_LAMP SHANK FATA.webp",
+      "originalImage": "uploads/products/product_81_1787766332.webp"
     },
     {
       "id": 82,
@@ -999,8 +1116,9 @@
       "nameEn": "Lamp Shank Stuffed Grape Leaves",
       "description": "",
       "price": 550.0,
-      "image": "uploads/products/product_82_1787766626.webp",
-      "imageAlt": "uploads/1783276182_LAMP SHANK FATAa.webp"
+      "image": "assets/optimized/products/product-82.jpg",
+      "imageAlt": "uploads/1783276182_LAMP SHANK FATAa.webp",
+      "originalImage": "uploads/products/product_82_1787766626.webp"
     },
     {
       "id": 83,
@@ -1009,8 +1127,9 @@
       "nameEn": "Sweet and Sour",
       "description": "",
       "price": 210.0,
-      "image": "uploads/products/product_83_1787769378.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-83.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_83_1787769378.jpg"
     },
     {
       "id": 84,
@@ -1019,8 +1138,9 @@
       "nameEn": "Mac and Cheese",
       "description": "",
       "price": 215.0,
-      "image": "uploads/products/product_84_1787769331.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-84.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_84_1787769331.jpg"
     },
     {
       "id": 85,
@@ -1029,8 +1149,9 @@
       "nameEn": "Pasta with Sausage",
       "description": "",
       "price": 210.0,
-      "image": "uploads/products/product_85_1787769273.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-85.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_85_1787769273.jpg"
     },
     {
       "id": 86,
@@ -1039,8 +1160,9 @@
       "nameEn": "Sea Food Negressco",
       "description": "",
       "price": 311.0,
-      "image": "uploads/products/product_86_1787769179.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-86.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_86_1787769179.jpg"
     },
     {
       "id": 87,
@@ -1049,8 +1171,9 @@
       "nameEn": "Penna Arabiata",
       "description": "",
       "price": 151.0,
-      "image": "uploads/products/product_87_1787769132.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-87.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_87_1787769132.jpg"
     },
     {
       "id": 88,
@@ -1059,8 +1182,9 @@
       "nameEn": "Spaghity Bolonize",
       "description": "",
       "price": 174.0,
-      "image": "uploads/products/product_88_1787769088.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-88.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_88_1787769088.jpg"
     },
     {
       "id": 89,
@@ -1069,8 +1193,9 @@
       "nameEn": "Alfrido",
       "description": "",
       "price": 197.0,
-      "image": "uploads/products/product_89_1787769050.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-89.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_89_1787769050.jpg"
     },
     {
       "id": 90,
@@ -1079,8 +1204,9 @@
       "nameEn": "Lovely Cheese",
       "description": "",
       "price": 174.0,
-      "image": "uploads/products/product_90_1787769022.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-90.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_90_1787769022.jpg"
     },
     {
       "id": 91,
@@ -1089,8 +1215,9 @@
       "nameEn": "Sasha",
       "description": "",
       "price": 227.0,
-      "image": "uploads/products/product_91_1787768946.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-91.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_91_1787768946.jpg"
     },
     {
       "id": 92,
@@ -1099,8 +1226,9 @@
       "nameEn": "Chicken Crispy",
       "description": "",
       "price": 204.0,
-      "image": "uploads/products/product_92_1787768889.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-92.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_92_1787768889.jpg"
     },
     {
       "id": 93,
@@ -1109,8 +1237,9 @@
       "nameEn": "Futtichini",
       "description": "",
       "price": 190.0,
-      "image": "uploads/products/product_93_1787768825.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-93.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_93_1787768825.jpg"
     },
     {
       "id": 94,
@@ -1119,8 +1248,9 @@
       "nameEn": "Negressco",
       "description": "",
       "price": 236.0,
-      "image": "uploads/products/product_94_1787768768.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-94.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_94_1787768768.jpg"
     },
     {
       "id": 95,
@@ -1129,8 +1259,9 @@
       "nameEn": "Sea Food Pasta",
       "description": "",
       "price": 287.0,
-      "image": "uploads/products/product_95_1787768714.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-95.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_95_1787768714.jpg"
     },
     {
       "id": 96,
@@ -1139,8 +1270,9 @@
       "nameEn": "Spaghitty Shrimp White Sauce",
       "description": "",
       "price": 280.0,
-      "image": "uploads/products/product_96_1787768663.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-96.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_96_1787768663.jpg"
     },
     {
       "id": 97,
@@ -1149,8 +1281,9 @@
       "nameEn": "Spaghitty Shrimp Red Sauce",
       "description": "",
       "price": 265.0,
-      "image": "uploads/products/product_97_1787768514.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-97.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_97_1787768514.jpg"
     },
     {
       "id": 98,
@@ -1159,8 +1292,9 @@
       "nameEn": "Shrimp Curry Pasta",
       "description": "",
       "price": 265.0,
-      "image": "uploads/products/product_98_1787768402.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-98.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_98_1787768402.jpg"
     },
     {
       "id": 99,
@@ -1169,8 +1303,9 @@
       "nameEn": "Lagssania",
       "description": "",
       "price": 204.0,
-      "image": "uploads/products/product_99_1787768311.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-99.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_99_1787768311.jpg"
     },
     {
       "id": 100,
@@ -1179,8 +1314,9 @@
       "nameEn": "Chicken Pane Pasta",
       "description": "",
       "price": 204.0,
-      "image": "uploads/products/product_100_1787768217.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-100.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_100_1787768217.jpg"
     },
     {
       "id": 101,
@@ -1189,8 +1325,9 @@
       "nameEn": "Chicken Curry Pasta",
       "description": "",
       "price": 204.0,
-      "image": "uploads/products/product_101_1787768108.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-101.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_101_1787768108.jpg"
     },
     {
       "id": 102,
@@ -1199,8 +1336,9 @@
       "nameEn": "Chicken Roll Pasta",
       "description": "",
       "price": 211.0,
-      "image": "uploads/products/product_102_1787767926.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-102.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_102_1787767926.jpg"
     },
     {
       "id": 103,
@@ -1209,8 +1347,9 @@
       "nameEn": "Pesto Pasta",
       "description": "",
       "price": 211.0,
-      "image": "uploads/products/product_103_1787767635.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-103.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_103_1787767635.jpg"
     },
     {
       "id": 104,
@@ -1219,8 +1358,9 @@
       "nameEn": "Beef Pasta Brown",
       "description": "",
       "price": 227.0,
-      "image": "uploads/products/product_104_1787767591.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-104.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_104_1787767591.jpg"
     },
     {
       "id": 105,
@@ -1229,8 +1369,9 @@
       "nameEn": "Genouva Pasta",
       "description": "فراخ مشويه - بسطرمه - لحوم مدخنه",
       "price": 220.0,
-      "image": "uploads/products/product_105_1787767540.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-105.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_105_1787767540.jpg"
     },
     {
       "id": 106,
@@ -1239,8 +1380,9 @@
       "nameEn": "Beshamil Pasta",
       "description": "",
       "price": 222.0,
-      "image": "uploads/products/product_106_1787767453.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-106.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_106_1787767453.jpg"
     },
     {
       "id": 107,
@@ -1249,8 +1391,9 @@
       "nameEn": "TUNA",
       "description": "",
       "price": 330.0,
-      "image": "uploads/products/product_107_1787773743.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-107.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_107_1787773743.jpg"
     },
     {
       "id": 108,
@@ -1259,8 +1402,9 @@
       "nameEn": "Chicken Blue Cheese",
       "description": "",
       "price": 315.0,
-      "image": "uploads/products/product_108_1787773714.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-108.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_108_1787773714.jpg"
     },
     {
       "id": 109,
@@ -1269,8 +1413,9 @@
       "nameEn": "FRUITE DE MARRY",
       "description": "",
       "price": 365.0,
-      "image": "uploads/products/product_109_1787773683.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-109.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_109_1787773683.jpg"
     },
     {
       "id": 110,
@@ -1279,8 +1424,9 @@
       "nameEn": "CHICKEN & MEAT",
       "description": "",
       "price": 315.0,
-      "image": "uploads/products/product_110_1787773617.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-110.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_110_1787773617.jpg"
     },
     {
       "id": 111,
@@ -1289,8 +1435,9 @@
       "nameEn": "PASTERMA",
       "description": "",
       "price": 235.0,
-      "image": "uploads/products/product_111_1787773579.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-111.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_111_1787773579.jpg"
     },
     {
       "id": 112,
@@ -1299,8 +1446,9 @@
       "nameEn": "SALAMI",
       "description": "",
       "price": 235.0,
-      "image": "uploads/products/product_112_1787773471.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-112.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_112_1787773471.jpg"
     },
     {
       "id": 113,
@@ -1309,8 +1457,9 @@
       "nameEn": "VIRDOURA",
       "description": "",
       "price": 155.0,
-      "image": "uploads/products/product_113_1787773425.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-113.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_113_1787773425.jpg"
     },
     {
       "id": 114,
@@ -1319,8 +1468,9 @@
       "nameEn": "CHICKEN BBQ",
       "description": "",
       "price": 295.0,
-      "image": "uploads/products/product_114_1787773363.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-114.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_114_1787773363.jpg"
     },
     {
       "id": 115,
@@ -1329,8 +1479,9 @@
       "nameEn": "VENISSIA",
       "description": "",
       "price": 285.0,
-      "image": "uploads/products/product_115_1787773317.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-115.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_115_1787773317.jpg"
     },
     {
       "id": 116,
@@ -1339,8 +1490,9 @@
       "nameEn": "QUATRO FURMAJI",
       "description": "",
       "price": 265.0,
-      "image": "uploads/products/product_116_1787773252.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-116.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_116_1787773252.jpg"
     },
     {
       "id": 117,
@@ -1349,8 +1501,9 @@
       "nameEn": "FUNJI",
       "description": "",
       "price": 175.0,
-      "image": "uploads/products/product_117_1787773203.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-117.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_117_1787773203.jpg"
     },
     {
       "id": 118,
@@ -1359,8 +1512,9 @@
       "nameEn": "MARGRETTA",
       "description": "",
       "price": 155.0,
-      "image": "uploads/products/product_118_1787773153.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-118.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_118_1787773153.jpg"
     },
     {
       "id": 119,
@@ -1369,8 +1523,9 @@
       "nameEn": "CRISPY RANCH",
       "description": "",
       "price": 286.0,
-      "image": "uploads/products/product_119_1787773105.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-119.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_119_1787773105.jpg"
     },
     {
       "id": 120,
@@ -1379,8 +1534,9 @@
       "nameEn": "ORIENTAL",
       "description": "",
       "price": 286.0,
-      "image": "uploads/products/product_120_1787773026.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-120.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_120_1787773026.jpg"
     },
     {
       "id": 121,
@@ -1389,8 +1545,9 @@
       "nameEn": "FOUR SEASON",
       "description": "مشكل جبن - فراخ باربكيو -لحوم مدخنه - هوت دوج",
       "price": 300.0,
-      "image": "uploads/products/product_121_1787772957.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-121.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_121_1787772957.jpg"
     },
     {
       "id": 122,
@@ -1399,8 +1556,9 @@
       "nameEn": "Fruite De Marry",
       "description": "",
       "price": 250.0,
-      "image": "uploads/products/product_122_1787773897.webp",
-      "imageAlt": "uploads/1783276253_kazony see.webp"
+      "image": "assets/optimized/products/product-122.jpg",
+      "imageAlt": "uploads/1783276253_kazony see.webp",
+      "originalImage": "uploads/products/product_122_1787773897.webp"
     },
     {
       "id": 123,
@@ -1409,8 +1567,9 @@
       "nameEn": "Mix Cheese",
       "description": "",
       "price": 160.0,
-      "image": "uploads/products/product_123_1787773869.webp",
-      "imageAlt": "uploads/1783276246_kalzony gebna.webp"
+      "image": "assets/optimized/products/product-123.jpg",
+      "imageAlt": "uploads/1783276246_kalzony gebna.webp",
+      "originalImage": "uploads/products/product_123_1787773869.webp"
     },
     {
       "id": 124,
@@ -1419,8 +1578,9 @@
       "nameEn": "Chicken",
       "description": "",
       "price": 190.0,
-      "image": "uploads/products/product_124_1787773844.webp",
-      "imageAlt": "uploads/1783276238_kalzony sea food.webp"
+      "image": "assets/optimized/products/product-124.jpg",
+      "imageAlt": "uploads/1783276238_kalzony sea food.webp",
+      "originalImage": "uploads/products/product_124_1787773844.webp"
     },
     {
       "id": 125,
@@ -1429,8 +1589,9 @@
       "nameEn": "Mix Meat",
       "description": "",
       "price": 205.0,
-      "image": "uploads/products/product_125_1787773802.webp",
-      "imageAlt": "uploads/1783276223_kalzone lohom.webp"
+      "image": "assets/optimized/products/product-125.jpg",
+      "imageAlt": "uploads/1783276223_kalzone lohom.webp",
+      "originalImage": "uploads/products/product_125_1787773802.webp"
     },
     {
       "id": 126,
@@ -1439,8 +1600,9 @@
       "nameEn": "Pizza Burger",
       "description": "",
       "price": 170.0,
-      "image": "uploads/products/product_126_1787774973.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-126.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_126_1787774973.jpg"
     },
     {
       "id": 127,
@@ -1449,8 +1611,9 @@
       "nameEn": "Double Cheese Burger",
       "description": "",
       "price": 230.0,
-      "image": "uploads/products/product_127_1787774927.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-127.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_127_1787774927.jpg"
     },
     {
       "id": 128,
@@ -1459,8 +1622,9 @@
       "nameEn": "Shrimp Cardinal",
       "description": "",
       "price": 215.0,
-      "image": "uploads/products/product_128_1787774891.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-128.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_128_1787774891.jpg"
     },
     {
       "id": 129,
@@ -1469,8 +1633,9 @@
       "nameEn": "Livers",
       "description": "",
       "price": 125.0,
-      "image": "uploads/products/product_129_1787774861.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-129.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_129_1787774861.jpg"
     },
     {
       "id": 130,
@@ -1479,8 +1644,9 @@
       "nameEn": "Kofta",
       "description": "",
       "price": 150.0,
-      "image": "uploads/products/product_130_1787774824.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-130.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_130_1787774824.jpg"
     },
     {
       "id": 131,
@@ -1489,8 +1655,9 @@
       "nameEn": "Steak & Cheese",
       "description": "",
       "price": 168.0,
-      "image": "uploads/products/product_131_1787774796.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-131.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_131_1787774796.jpg"
     },
     {
       "id": 132,
@@ -1499,8 +1666,9 @@
       "nameEn": "Shish Tawook",
       "description": "",
       "price": 160.0,
-      "image": "uploads/products/product_132_1787774768.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-132.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_132_1787774768.jpg"
     },
     {
       "id": 133,
@@ -1509,8 +1677,9 @@
       "nameEn": "Tivoli Burger",
       "description": "",
       "price": 225.0,
-      "image": "uploads/products/product_133_1787774738.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-133.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_133_1787774738.jpg"
     },
     {
       "id": 134,
@@ -1519,8 +1688,9 @@
       "nameEn": "Cheese Burger.",
       "description": "",
       "price": 190.0,
-      "image": "uploads/products/product_134_1787774707.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-134.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_134_1787774707.jpg"
     },
     {
       "id": 135,
@@ -1529,8 +1699,9 @@
       "nameEn": "Italian Burger",
       "description": "",
       "price": 190.0,
-      "image": "uploads/products/product_135_1787774679.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-135.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_135_1787774679.jpg"
     },
     {
       "id": 136,
@@ -1539,8 +1710,9 @@
       "nameEn": "Chicken Pane",
       "description": "",
       "price": 168.0,
-      "image": "uploads/products/product_136_1787774648.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-136.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_136_1787774648.jpg"
     },
     {
       "id": 137,
@@ -1549,8 +1721,9 @@
       "nameEn": "Chicken Roll",
       "description": "",
       "price": 186.0,
-      "image": "uploads/products/product_137_1787774619.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-137.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_137_1787774619.jpg"
     },
     {
       "id": 138,
@@ -1559,8 +1732,9 @@
       "nameEn": "Beef Fajitta",
       "description": "",
       "price": 195.0,
-      "image": "uploads/products/product_138_1787774584.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-138.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_138_1787774584.jpg"
     },
     {
       "id": 139,
@@ -1569,8 +1743,9 @@
       "nameEn": "Chicken Fajitta",
       "description": "",
       "price": 180.0,
-      "image": "uploads/products/product_139_1787774468.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-139.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_139_1787774468.jpg"
     },
     {
       "id": 140,
@@ -1579,8 +1754,9 @@
       "nameEn": "Chicken Crispy",
       "description": "",
       "price": 180.0,
-      "image": "uploads/products/product_140_1787774408.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-140.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_140_1787774408.jpg"
     },
     {
       "id": 141,
@@ -1589,8 +1765,9 @@
       "nameEn": "Italian Chicken",
       "description": "",
       "price": 180.0,
-      "image": "uploads/products/product_141_1787774320.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-141.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_141_1787774320.jpg"
     },
     {
       "id": 142,
@@ -1599,8 +1776,9 @@
       "nameEn": "Chicken Hummer Burger",
       "description": "",
       "price": 180.0,
-      "image": "uploads/products/product_142_1787774271.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-142.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_142_1787774271.jpg"
     },
     {
       "id": 143,
@@ -1609,8 +1787,9 @@
       "nameEn": "Chicken Burger",
       "description": "",
       "price": 180.0,
-      "image": "uploads/products/product_143_1787774231.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-143.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_143_1787774231.jpg"
     },
     {
       "id": 144,
@@ -1619,8 +1798,9 @@
       "nameEn": "Hawawshi",
       "description": "",
       "price": 125.0,
-      "image": "uploads/products/product_144_1787774201.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-144.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_144_1787774201.jpg"
     },
     {
       "id": 145,
@@ -1629,8 +1809,9 @@
       "nameEn": "Cassadia Chicken",
       "description": "",
       "price": 187.0,
-      "image": "uploads/products/product_145_1787774172.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-145.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_145_1787774172.jpg"
     },
     {
       "id": 146,
@@ -1639,8 +1820,9 @@
       "nameEn": "Cassadia Meat",
       "description": "",
       "price": 218.0,
-      "image": "uploads/products/product_146_1787774129.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-146.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_146_1787774129.jpg"
     },
     {
       "id": 147,
@@ -1649,8 +1831,9 @@
       "nameEn": "Cassadia Sea Food",
       "description": "",
       "price": 225.0,
-      "image": "uploads/products/product_147_1787774096.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-147.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_147_1787774096.jpg"
     },
     {
       "id": 148,
@@ -1659,8 +1842,9 @@
       "nameEn": "Cheese Pane",
       "description": "فراخ بانيه - تركي مدخن - جبنه",
       "price": 180.0,
-      "image": "uploads/products/product_148_1787774053.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-148.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_148_1787774053.jpg"
     },
     {
       "id": 149,
@@ -1669,8 +1853,9 @@
       "nameEn": "Tivoli Chicken",
       "description": "فراخ بانيه - بسطرمه - خضروات",
       "price": 180.0,
-      "image": "uploads/products/product_149_1787773959.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-149.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_149_1787773959.jpg"
     },
     {
       "id": 150,
@@ -1679,8 +1864,9 @@
       "nameEn": "MINI TIVOLI",
       "description": "",
       "price": 150.0,
-      "image": "uploads/products/product_150_1787776465.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-150.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_150_1787776465.jpg"
     },
     {
       "id": 151,
@@ -1689,8 +1875,9 @@
       "nameEn": "CRISPY SANDWICH",
       "description": "",
       "price": 135.0,
-      "image": "uploads/products/product_151_1787776438.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-151.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_151_1787776438.jpg"
     },
     {
       "id": 152,
@@ -1699,8 +1886,9 @@
       "nameEn": "BURGER SANDWICH",
       "description": "",
       "price": 146.0,
-      "image": "uploads/products/product_152_1787776426.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-152.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_152_1787776426.jpg"
     },
     {
       "id": 153,
@@ -1709,8 +1897,9 @@
       "nameEn": "BARBIE",
       "description": "",
       "price": 146.0,
-      "image": "uploads/products/product_153_1787776416.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-153.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_153_1787776416.jpg"
     },
     {
       "id": 154,
@@ -1719,8 +1908,9 @@
       "nameEn": "ANOSY",
       "description": "",
       "price": 146.0,
-      "image": "uploads/products/product_154_1787776403.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-154.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_154_1787776403.jpg"
     },
     {
       "id": 155,
@@ -1729,8 +1919,9 @@
       "nameEn": "MAROSKA",
       "description": "",
       "price": 135.0,
-      "image": "uploads/products/product_155_1787776455.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-155.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_155_1787776455.jpg"
     },
     {
       "id": 156,
@@ -1739,8 +1930,9 @@
       "nameEn": "Sauted Vegetables",
       "description": "",
       "price": 80.0,
-      "image": "uploads/products/product_156_1787776965.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-156.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_156_1787776965.jpg"
     },
     {
       "id": 157,
@@ -1749,8 +1941,9 @@
       "nameEn": "Mash Mozzarella",
       "description": "",
       "price": 100.0,
-      "image": "uploads/products/product_157_1787776930.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-157.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_157_1787776930.jpg"
     },
     {
       "id": 158,
@@ -1759,8 +1952,9 @@
       "nameEn": "Mashed Potato",
       "description": "",
       "price": 73.0,
-      "image": "uploads/products/product_158_1787776904.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-158.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_158_1787776904.jpg"
     },
     {
       "id": 159,
@@ -1769,8 +1963,9 @@
       "nameEn": "French Fries",
       "description": "",
       "price": 67.0,
-      "image": "uploads/products/product_159_1787776882.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-159.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_159_1787776882.jpg"
     },
     {
       "id": 160,
@@ -1779,8 +1974,9 @@
       "nameEn": "Herbs Rice",
       "description": "",
       "price": 93.0,
-      "image": "uploads/products/product_160_1787776835.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-160.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_160_1787776835.jpg"
     },
     {
       "id": 161,
@@ -1789,8 +1985,9 @@
       "nameEn": "Yellow Rice",
       "description": "",
       "price": 73.0,
-      "image": "uploads/products/product_161_1787776814.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-161.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_161_1787776814.jpg"
     },
     {
       "id": 162,
@@ -1799,8 +1996,9 @@
       "nameEn": "White Rice",
       "description": "",
       "price": 67.0,
-      "image": "uploads/products/product_162_1787776789.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-162.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_162_1787776789.jpg"
     },
     {
       "id": 163,
@@ -1809,8 +2007,9 @@
       "nameEn": "Pasta Red Sauce",
       "description": "",
       "price": 80.0,
-      "image": "uploads/products/product_163_1787776757.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-163.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_163_1787776757.jpg"
     },
     {
       "id": 164,
@@ -1819,8 +2018,9 @@
       "nameEn": "Pasta White Sauce",
       "description": "",
       "price": 95.0,
-      "image": "uploads/products/product_164_1787776734.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-164.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_164_1787776734.jpg"
     },
     {
       "id": 165,
@@ -1829,8 +2029,9 @@
       "nameEn": "Pistachio Casserole",
       "description": "",
       "price": 165.0,
-      "image": "uploads/products/product_165_1787862783.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-165.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_165_1787862783.jpg"
     },
     {
       "id": 166,
@@ -1839,8 +2040,9 @@
       "nameEn": "Lotus Casserole",
       "description": "",
       "price": 151.0,
-      "image": "uploads/products/product_166_1787862756.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-166.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_166_1787862756.jpg"
     },
     {
       "id": 167,
@@ -1849,8 +2051,9 @@
       "nameEn": "Chocolate Casserole",
       "description": "",
       "price": 138.0,
-      "image": "uploads/products/product_167_1787862733.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-167.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_167_1787862733.jpg"
     },
     {
       "id": 168,
@@ -1859,8 +2062,9 @@
       "nameEn": "Om Ali",
       "description": "",
       "price": 125.0,
-      "image": "uploads/products/product_168_1787862699.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-168.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_168_1787862699.jpg"
     },
     {
       "id": 169,
@@ -1869,8 +2073,9 @@
       "nameEn": "Pistachio Madness",
       "description": "",
       "price": 158.0,
-      "image": "uploads/products/product_169_1787862677.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-169.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_169_1787862677.jpg"
     },
     {
       "id": 170,
@@ -1879,8 +2084,9 @@
       "nameEn": "Lotus Madness",
       "description": "",
       "price": 138.0,
-      "image": "uploads/products/product_170_1787862649.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-170.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_170_1787862649.jpg"
     },
     {
       "id": 171,
@@ -1889,8 +2095,9 @@
       "nameEn": "Oreo Madness",
       "description": "",
       "price": 126.0,
-      "image": "uploads/products/product_171_1787862603.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-171.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_171_1787862603.jpg"
     },
     {
       "id": 172,
@@ -1899,8 +2106,9 @@
       "nameEn": "Molten Cake",
       "description": "",
       "price": 118.0,
-      "image": "uploads/products/product_172_1787862571.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-172.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_172_1787862571.jpg"
     },
     {
       "id": 173,
@@ -1909,8 +2117,9 @@
       "nameEn": "San Sebastian",
       "description": "",
       "price": 132.0,
-      "image": "uploads/products/product_173_1787862517.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-173.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_173_1787862517.jpg"
     },
     {
       "id": 174,
@@ -1919,8 +2128,9 @@
       "nameEn": "Tiramsu",
       "description": "",
       "price": 132.0,
-      "image": "uploads/products/product_174_1787862448.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-174.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_174_1787862448.jpg"
     },
     {
       "id": 175,
@@ -1929,8 +2139,9 @@
       "nameEn": "Kinder Mousse",
       "description": "",
       "price": 132.0,
-      "image": "uploads/products/product_175_1787862405.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-175.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_175_1787862405.jpg"
     },
     {
       "id": 176,
@@ -1939,8 +2150,9 @@
       "nameEn": "Rouche Mousse",
       "description": "",
       "price": 132.0,
-      "image": "uploads/products/product_176_1787861988.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-176.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_176_1787861988.jpg"
     },
     {
       "id": 177,
@@ -1949,8 +2161,9 @@
       "nameEn": "Nuetella Mousse",
       "description": "",
       "price": 132.0,
-      "image": "uploads/products/product_177_1787861949.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-177.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_177_1787861949.jpg"
     },
     {
       "id": 178,
@@ -1959,8 +2172,9 @@
       "nameEn": "Galaxy Mousse",
       "description": "",
       "price": 132.0,
-      "image": "uploads/products/product_178_1787861916.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-178.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_178_1787861916.jpg"
     },
     {
       "id": 179,
@@ -1969,8 +2183,9 @@
       "nameEn": "Cheese Cake Pistachio",
       "description": "",
       "price": 159.0,
-      "image": "uploads/products/product_179_1787861878.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-179.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_179_1787861878.jpg"
     },
     {
       "id": 180,
@@ -1989,8 +2204,9 @@
       "nameEn": "Cheese Cake",
       "description": "شوكليت- توت - كراميل - وايت",
       "price": 118.0,
-      "image": "uploads/products/product_181_1787861838.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-181.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_181_1787861838.jpg"
     },
     {
       "id": 182,
@@ -1999,8 +2215,9 @@
       "nameEn": "Redbull",
       "description": "",
       "price": 115.0,
-      "image": "uploads/products/product_182_1787777575.webp",
-      "imageAlt": "uploads/1783277375_1783195267_?????? .webp"
+      "image": "assets/optimized/products/product-182.jpg",
+      "imageAlt": "uploads/1783277375_1783195267_?????? .webp",
+      "originalImage": "uploads/products/product_182_1787777575.webp"
     },
     {
       "id": 183,
@@ -2009,8 +2226,9 @@
       "nameEn": "Schweppes",
       "description": "",
       "price": 50.0,
-      "image": "uploads/products/product_183_1787777633.webp",
-      "imageAlt": "uploads/1783277385_1783192555_????.webp"
+      "image": "assets/optimized/products/product-183.jpg",
+      "imageAlt": "uploads/1783277385_1783192555_????.webp",
+      "originalImage": "uploads/products/product_183_1787777633.webp"
     },
     {
       "id": 184,
@@ -2019,8 +2237,9 @@
       "nameEn": "Fayrouz",
       "description": "",
       "price": 50.0,
-      "image": "uploads/products/product_184_1787777670.webp",
-      "imageAlt": "uploads/1783277398_1783194670_?????.webp"
+      "image": "assets/optimized/products/product-184.jpg",
+      "imageAlt": "uploads/1783277398_1783194670_?????.webp",
+      "originalImage": "uploads/products/product_184_1787777670.webp"
     },
     {
       "id": 185,
@@ -2029,8 +2248,9 @@
       "nameEn": "Brile",
       "description": "",
       "price": 50.0,
-      "image": "uploads/products/product_185_1787777868.jpg",
-      "imageAlt": "uploads/1783277413_1783195717_?????.webp"
+      "image": "assets/optimized/products/product-185.jpg",
+      "imageAlt": "uploads/1783277413_1783195717_?????.webp",
+      "originalImage": "uploads/products/product_185_1787777868.jpg"
     },
     {
       "id": 186,
@@ -2039,8 +2259,9 @@
       "nameEn": "CAN",
       "description": "",
       "price": 46.0,
-      "image": "uploads/products/product_186_1787777732.webp",
-      "imageAlt": "uploads/1783277426_1783194337_????.webp"
+      "image": "assets/optimized/products/product-186.jpg",
+      "imageAlt": "uploads/1783277426_1783194337_????.webp",
+      "originalImage": "uploads/products/product_186_1787777732.webp"
     },
     {
       "id": 187,
@@ -2049,8 +2270,9 @@
       "nameEn": "WATER",
       "description": "",
       "price": 22.0,
-      "image": "uploads/products/product_187_1787777770.webp",
-      "imageAlt": "uploads/1783277435_1783192079_????.webp"
+      "image": "assets/optimized/products/product-187.jpg",
+      "imageAlt": "uploads/1783277435_1783192079_????.webp",
+      "originalImage": "uploads/products/product_187_1787777770.webp"
     },
     {
       "id": 188,
@@ -2059,8 +2281,9 @@
       "nameEn": "FOUR SEASON.",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_188_1787778684.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-188.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_188_1787778684.jpg"
     },
     {
       "id": 189,
@@ -2069,8 +2292,9 @@
       "nameEn": "DUBAI WAFFLE",
       "description": "",
       "price": 201.0,
-      "image": "uploads/products/product_189_1787778585.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-189.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_189_1787778585.jpg"
     },
     {
       "id": 190,
@@ -2079,8 +2303,9 @@
       "nameEn": "Marshmallow",
       "description": "",
       "price": 151.0,
-      "image": "uploads/products/product_190_1787779125.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-190.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_190_1787779125.jpg"
     },
     {
       "id": 191,
@@ -2089,8 +2314,9 @@
       "nameEn": "White Cherry",
       "description": "",
       "price": 131.0,
-      "image": "uploads/products/product_191_1787779168.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-191.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_191_1787779168.jpg"
     },
     {
       "id": 192,
@@ -2099,8 +2325,9 @@
       "nameEn": "Oreo",
       "description": "",
       "price": 138.0,
-      "image": "uploads/products/product_192_1787779025.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-192.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_192_1787779025.jpg"
     },
     {
       "id": 193,
@@ -2109,8 +2336,9 @@
       "nameEn": "Nuts",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_193_1787779142.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-193.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_193_1787779142.jpg"
     },
     {
       "id": 194,
@@ -2119,8 +2347,9 @@
       "nameEn": "Fruits",
       "description": "",
       "price": 165.0,
-      "image": "uploads/products/product_194_1787779086.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-194.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_194_1787779086.jpg"
     },
     {
       "id": 195,
@@ -2129,8 +2358,9 @@
       "nameEn": "Ice",
       "description": "",
       "price": 165.0,
-      "image": "uploads/products/product_195_1787779040.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-195.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_195_1787779040.jpg"
     },
     {
       "id": 196,
@@ -2139,8 +2369,9 @@
       "nameEn": "Pistachio",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_196_1787779067.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-196.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_196_1787779067.jpg"
     },
     {
       "id": 197,
@@ -2149,8 +2380,9 @@
       "nameEn": "Lotus",
       "description": "",
       "price": 158.0,
-      "image": "uploads/products/product_197_1787779113.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-197.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_197_1787779113.jpg"
     },
     {
       "id": 198,
@@ -2159,8 +2391,9 @@
       "nameEn": "Caramel",
       "description": "",
       "price": 124.0,
-      "image": "uploads/products/product_198_1787779095.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-198.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_198_1787779095.jpg"
     },
     {
       "id": 199,
@@ -2169,8 +2402,9 @@
       "nameEn": "Mix",
       "description": "",
       "price": 173.0,
-      "image": "uploads/products/product_199_1787779153.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-199.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_199_1787779153.jpg"
     },
     {
       "id": 200,
@@ -2179,8 +2413,9 @@
       "nameEn": "Chocolate",
       "description": "",
       "price": 139.0,
-      "image": "uploads/products/product_200_1787779054.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-200.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_200_1787779054.jpg"
     },
     {
       "id": 201,
@@ -2189,8 +2424,9 @@
       "nameEn": "Cheese Sweets",
       "description": "",
       "price": 100.0,
-      "image": "uploads/products/product_201_1787775782.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-201.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_201_1787775782.jpg"
     },
     {
       "id": 202,
@@ -2199,8 +2435,9 @@
       "nameEn": "Osmanlia",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_202_1787775809.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-202.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_202_1787775809.jpg"
     },
     {
       "id": 203,
@@ -2209,8 +2446,9 @@
       "nameEn": "Napolsia",
       "description": "",
       "price": 160.0,
-      "image": "uploads/products/product_203_1787775839.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-203.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_203_1787775839.jpg"
     },
     {
       "id": 204,
@@ -2219,8 +2457,9 @@
       "nameEn": "Plate Of Fruits",
       "description": "",
       "price": 150.0,
-      "image": null,
-      "imageAlt": null
+      "image": "assets/optimized/products/product-204.jpg",
+      "imageAlt": null,
+      "originalImage": null
     },
     {
       "id": 205,
@@ -2229,8 +2468,9 @@
       "nameEn": "Fruit Salad Ice",
       "description": "",
       "price": 132.0,
-      "image": "uploads/products/product_205_1787778028.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-205.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_205_1787778028.jpg"
     },
     {
       "id": 206,
@@ -2239,8 +2479,9 @@
       "nameEn": "Fruit Salad",
       "description": "",
       "price": 112.0,
-      "image": "uploads/products/product_206_1787778071.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-206.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_206_1787778071.jpg"
     },
     {
       "id": 207,
@@ -2249,8 +2490,9 @@
       "nameEn": "Four Season Crepe",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_207_1787778380.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-207.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_207_1787778380.jpg"
     },
     {
       "id": 208,
@@ -2259,8 +2501,9 @@
       "nameEn": "Dubai Crepe",
       "description": "",
       "price": 201.0,
-      "image": "uploads/products/product_208_1787778358.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-208.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_208_1787778358.jpg"
     },
     {
       "id": 209,
@@ -2269,8 +2512,9 @@
       "nameEn": "White Cherry",
       "description": "",
       "price": 117.0,
-      "image": "uploads/products/product_209_1787778330.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-209.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_209_1787778330.jpg"
     },
     {
       "id": 210,
@@ -2279,8 +2523,9 @@
       "nameEn": "Fettuccine",
       "description": "",
       "price": 139.0,
-      "image": "uploads/products/product_210_1787778306.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-210.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_210_1787778306.jpg"
     },
     {
       "id": 211,
@@ -2289,8 +2534,9 @@
       "nameEn": "Fruits Ice Roll",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_211_1787778280.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-211.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_211_1787778280.jpg"
     },
     {
       "id": 212,
@@ -2299,8 +2545,9 @@
       "nameEn": "Mix Chocolate Roll",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_212_1787778259.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-212.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_212_1787778259.jpg"
     },
     {
       "id": 213,
@@ -2309,8 +2556,9 @@
       "nameEn": "Caramel",
       "description": "",
       "price": 131.0,
-      "image": "uploads/products/product_213_1787778234.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-213.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_213_1787778234.jpg"
     },
     {
       "id": 214,
@@ -2319,8 +2567,9 @@
       "nameEn": "Lotus",
       "description": "",
       "price": 158.0,
-      "image": "uploads/products/product_214_1787778200.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-214.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_214_1787778200.jpg"
     },
     {
       "id": 215,
@@ -2329,8 +2578,9 @@
       "nameEn": "Pistachio",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_215_1787778178.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-215.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_215_1787778178.jpg"
     },
     {
       "id": 216,
@@ -2339,8 +2589,9 @@
       "nameEn": "White Chocolate",
       "description": "",
       "price": 144.0,
-      "image": "uploads/products/product_216_1787778158.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-216.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_216_1787778158.jpg"
     },
     {
       "id": 217,
@@ -2349,8 +2600,9 @@
       "nameEn": "Chocolate",
       "description": "",
       "price": 144.0,
-      "image": "uploads/products/product_217_1787778129.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-217.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_217_1787778129.jpg"
     },
     {
       "id": 218,
@@ -2359,8 +2611,9 @@
       "nameEn": "Apple Cinnamon",
       "description": "",
       "price": 139.0,
-      "image": "uploads/products/product_218_1787777913.webp",
-      "imageAlt": "uploads/1783276635_?????? ???? ????.webp"
+      "image": "assets/optimized/products/product-218.jpg",
+      "imageAlt": "uploads/1783276635_?????? ???? ????.webp",
+      "originalImage": "uploads/products/product_218_1787777913.webp"
     },
     {
       "id": 219,
@@ -2369,8 +2622,9 @@
       "nameEn": "White Cherry",
       "description": "",
       "price": 124.0,
-      "image": "uploads/products/product_219_1787778355.webp",
-      "imageAlt": "uploads/1783276645_?????? ???? ??????.webp"
+      "image": "assets/optimized/products/product-219.jpg",
+      "imageAlt": "uploads/1783276645_?????? ???? ??????.webp",
+      "originalImage": "uploads/products/product_219_1787778355.webp"
     },
     {
       "id": 220,
@@ -2379,8 +2633,9 @@
       "nameEn": "Sugar Cinnamon-Honey",
       "description": "",
       "price": 131.0,
-      "image": "uploads/products/product_220_1787778053.webp",
-      "imageAlt": "uploads/1783276655_?????? ??? ???? ???.webp"
+      "image": "assets/optimized/products/product-220.jpg",
+      "imageAlt": "uploads/1783276655_?????? ??? ???? ???.webp",
+      "originalImage": "uploads/products/product_220_1787778053.webp"
     },
     {
       "id": 221,
@@ -2389,8 +2644,9 @@
       "nameEn": "Banana Nuts",
       "description": "",
       "price": 165.0,
-      "image": "uploads/products/product_221_1787778258.webp",
-      "imageAlt": "uploads/1783276666_?????? ??? ??????.webp"
+      "image": "assets/optimized/products/product-221.jpg",
+      "imageAlt": "uploads/1783276666_?????? ??? ??????.webp",
+      "originalImage": "uploads/products/product_221_1787778258.webp"
     },
     {
       "id": 222,
@@ -2399,8 +2655,9 @@
       "nameEn": "Fruits Ice Roll",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_222_1787777969.webp",
-      "imageAlt": "uploads/1783189505_?????? ??? ??? ?????.webp"
+      "image": "assets/optimized/products/product-222.jpg",
+      "imageAlt": "uploads/1783189505_?????? ??? ??? ?????.webp",
+      "originalImage": "uploads/products/product_222_1787777969.webp"
     },
     {
       "id": 223,
@@ -2409,8 +2666,9 @@
       "nameEn": "Mix Chocolate Roll",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_223_1787778010.webp",
-      "imageAlt": "uploads/1783276673_?????? ??? ???? ??????.webp"
+      "image": "assets/optimized/products/product-223.jpg",
+      "imageAlt": "uploads/1783276673_?????? ??? ???? ??????.webp",
+      "originalImage": "uploads/products/product_223_1787778010.webp"
     },
     {
       "id": 224,
@@ -2419,8 +2677,9 @@
       "nameEn": "Caramel",
       "description": "",
       "price": 131.0,
-      "image": "uploads/products/product_224_1787778177.webp",
-      "imageAlt": "uploads/1783189731_?????? ??????.webp"
+      "image": "assets/optimized/products/product-224.jpg",
+      "imageAlt": "uploads/1783189731_?????? ??????.webp",
+      "originalImage": "uploads/products/product_224_1787778177.webp"
     },
     {
       "id": 225,
@@ -2429,8 +2688,9 @@
       "nameEn": "Lotus",
       "description": "",
       "price": 158.0,
-      "image": "uploads/products/product_225_1787778209.webp",
-      "imageAlt": "uploads/1783276693_?????? ????.webp"
+      "image": "assets/optimized/products/product-225.jpg",
+      "imageAlt": "uploads/1783276693_?????? ????.webp",
+      "originalImage": "uploads/products/product_225_1787778209.webp"
     },
     {
       "id": 226,
@@ -2439,8 +2699,9 @@
       "nameEn": "Pistachio",
       "description": "",
       "price": 179.0,
-      "image": "uploads/products/product_226_1787778126.webp",
-      "imageAlt": "uploads/1783276708_?????? ????.webp"
+      "image": "assets/optimized/products/product-226.jpg",
+      "imageAlt": "uploads/1783276708_?????? ????.webp",
+      "originalImage": "uploads/products/product_226_1787778126.webp"
     },
     {
       "id": 227,
@@ -2449,8 +2710,9 @@
       "nameEn": "White Chocolate",
       "description": "",
       "price": 131.0,
-      "image": "uploads/products/product_227_1787778321.webp",
-      "imageAlt": "uploads/1783276720_?????? ???? ??????.webp"
+      "image": "assets/optimized/products/product-227.jpg",
+      "imageAlt": "uploads/1783276720_?????? ???? ??????.webp",
+      "originalImage": "uploads/products/product_227_1787778321.webp"
     },
     {
       "id": 228,
@@ -2459,8 +2721,9 @@
       "nameEn": "Chocolate",
       "description": "",
       "price": 144.0,
-      "image": "uploads/products/product_228_1787778092.webp",
-      "imageAlt": "uploads/1783276741_?????? ??????.webp"
+      "image": "assets/optimized/products/product-228.jpg",
+      "imageAlt": "uploads/1783276741_?????? ??????.webp",
+      "originalImage": "uploads/products/product_228_1787778092.webp"
     },
     {
       "id": 229,
@@ -2469,8 +2732,9 @@
       "nameEn": "BLUE SKY",
       "description": "",
       "price": 95.0,
-      "image": "uploads/products/product_229_1787776165.webp",
-      "imageAlt": "uploads/1783276767_??? ????.webp"
+      "image": "assets/optimized/products/product-229.jpg",
+      "imageAlt": "uploads/1783276767_??? ????.webp",
+      "originalImage": "uploads/products/product_229_1787776165.webp"
     },
     {
       "id": 230,
@@ -2479,8 +2743,9 @@
       "nameEn": "BLUE PASSION",
       "description": "",
       "price": 98.0,
-      "image": "uploads/products/product_230_1787776120.webp",
-      "imageAlt": "uploads/1783276777_??? ?????.webp"
+      "image": "assets/optimized/products/product-230.jpg",
+      "imageAlt": "uploads/1783276777_??? ?????.webp",
+      "originalImage": "uploads/products/product_230_1787776120.webp"
     },
     {
       "id": 231,
@@ -2489,8 +2754,9 @@
       "nameEn": "GREEN APPLE",
       "description": "",
       "price": 98.0,
-      "image": "uploads/products/product_231_1787776292.webp",
-      "imageAlt": "uploads/1783276808_Gemini_Generated_Image_5dadld5dadld5dad.webp"
+      "image": "assets/optimized/products/product-231.jpg",
+      "imageAlt": "uploads/1783276808_Gemini_Generated_Image_5dadld5dadld5dad.webp",
+      "originalImage": "uploads/products/product_231_1787776292.webp"
     },
     {
       "id": 232,
@@ -2499,8 +2765,9 @@
       "nameEn": "FRUITS SMOOTHIE BY CHOICE",
       "description": "",
       "price": 104.0,
-      "image": "uploads/products/product_232_1787776478.webp",
-      "imageAlt": "uploads/1783276950_Gemini_Generated_Image_bpfswtbpfswtbpfs.webp"
+      "image": "assets/optimized/products/product-232.jpg",
+      "imageAlt": "uploads/1783276950_Gemini_Generated_Image_bpfswtbpfswtbpfs.webp",
+      "originalImage": "uploads/products/product_232_1787776478.webp"
     },
     {
       "id": 233,
@@ -2509,8 +2776,9 @@
       "nameEn": "Smoothie Mix",
       "description": "",
       "price": 131.0,
-      "image": "uploads/products/product_233_1787776438.webp",
-      "imageAlt": "uploads/1783276933_Gemini_Generated_Image_k9nmfhk9nmfhk9nm.webp"
+      "image": "assets/optimized/products/product-233.jpg",
+      "imageAlt": "uploads/1783276933_Gemini_Generated_Image_k9nmfhk9nmfhk9nm.webp",
+      "originalImage": "uploads/products/product_233_1787776438.webp"
     },
     {
       "id": 234,
@@ -2519,8 +2787,9 @@
       "nameEn": "Italian Soda",
       "description": "",
       "price": 96.0,
-      "image": "uploads/products/product_234_1787776887.webp",
-      "imageAlt": "uploads/1783277329_Gemini_Generated_Image_5i4go75i4go75i4g.webp"
+      "image": "assets/optimized/products/product-234.jpg",
+      "imageAlt": "uploads/1783277329_Gemini_Generated_Image_5i4go75i4go75i4g.webp",
+      "originalImage": "uploads/products/product_234_1787776887.webp"
     },
     {
       "id": 235,
@@ -2529,8 +2798,9 @@
       "nameEn": "Gold Sand",
       "description": "",
       "price": 96.0,
-      "image": "uploads/products/product_235_1787776870.webp",
-      "imageAlt": "uploads/1783277294_Gemini_Generated_Image_9l99na9l99na9l99.webp"
+      "image": "assets/optimized/products/product-235.jpg",
+      "imageAlt": "uploads/1783277294_Gemini_Generated_Image_9l99na9l99na9l99.webp",
+      "originalImage": "uploads/products/product_235_1787776870.webp"
     },
     {
       "id": 236,
@@ -2539,8 +2809,9 @@
       "nameEn": "Kalimero",
       "description": "",
       "price": 96.0,
-      "image": "uploads/products/product_236_1787777122.webp",
-      "imageAlt": "uploads/1783277341_Gemini_Generated_Image_5i4go75i4go75i4g.webp"
+      "image": "assets/optimized/products/product-236.jpg",
+      "imageAlt": "uploads/1783277341_Gemini_Generated_Image_5i4go75i4go75i4g.webp",
+      "originalImage": "uploads/products/product_236_1787777122.webp"
     },
     {
       "id": 237,
@@ -2549,8 +2820,9 @@
       "nameEn": "MOJITO",
       "description": "",
       "price": 110.0,
-      "image": "uploads/products/product_237_1787776961.webp",
-      "imageAlt": "uploads/1783277193_Gemini_Generated_Image_o44v3ao44v3ao44v.webp"
+      "image": "assets/optimized/products/product-237.jpg",
+      "imageAlt": "uploads/1783277193_Gemini_Generated_Image_o44v3ao44v3ao44v.webp",
+      "originalImage": "uploads/products/product_237_1787776961.webp"
     },
     {
       "id": 238,
@@ -2559,8 +2831,9 @@
       "nameEn": "MOJITO",
       "description": "",
       "price": 104.0,
-      "image": "uploads/products/product_238_1787777065.webp",
-      "imageAlt": "uploads/1783277254_Gemini_Generated_Image_88ks3n88ks3n88ks.webp"
+      "image": "assets/optimized/products/product-238.jpg",
+      "imageAlt": "uploads/1783277254_Gemini_Generated_Image_88ks3n88ks3n88ks.webp",
+      "originalImage": "uploads/products/product_238_1787777065.webp"
     },
     {
       "id": 239,
@@ -2569,8 +2842,9 @@
       "nameEn": "Jelly Cola",
       "description": "",
       "price": 89.0,
-      "image": "uploads/products/product_239_1787776835.webp",
-      "imageAlt": "uploads/1783277002_Gemini_Generated_Image_2683n82683n82683.webp"
+      "image": "assets/optimized/products/product-239.jpg",
+      "imageAlt": "uploads/1783277002_Gemini_Generated_Image_2683n82683n82683.webp",
+      "originalImage": "uploads/products/product_239_1787776835.webp"
     },
     {
       "id": 240,
@@ -2579,8 +2853,9 @@
       "nameEn": "Flavored Soda",
       "description": "فراوله - نعناع - رمان",
       "price": 89.0,
-      "image": "uploads/1783277022_Gemini_Generated_Image_5i4go75i4go75i4g.webp",
-      "imageAlt": "uploads/1783277022_Gemini_Generated_Image_5i4go75i4go75i4g.webp"
+      "image": "assets/optimized/products/product-240.jpg",
+      "imageAlt": "uploads/1783277022_Gemini_Generated_Image_5i4go75i4go75i4g.webp",
+      "originalImage": "uploads/1783277022_Gemini_Generated_Image_5i4go75i4go75i4g.webp"
     },
     {
       "id": 241,
@@ -2589,8 +2864,9 @@
       "nameEn": "TIVOLI MIX CHOCOLATE",
       "description": "",
       "price": 131.0,
-      "image": "uploads/products/product_241_1787861693.webp",
-      "imageAlt": "uploads/1783277544_Gemini_Generated_Image_48ab4248ab4248ab.webp"
+      "image": "assets/optimized/products/product-241.jpg",
+      "imageAlt": "uploads/1783277544_Gemini_Generated_Image_48ab4248ab4248ab.webp",
+      "originalImage": "uploads/products/product_241_1787861693.webp"
     },
     {
       "id": 242,
@@ -2599,8 +2875,9 @@
       "nameEn": "OREO",
       "description": "",
       "price": 117.0,
-      "image": "uploads/products/product_242_1787861659.webp",
-      "imageAlt": "uploads/1783277609_Gemini_Generated_Image_hnph54hnph54hnph.webp"
+      "image": "assets/optimized/products/product-242.jpg",
+      "imageAlt": "uploads/1783277609_Gemini_Generated_Image_hnph54hnph54hnph.webp",
+      "originalImage": "uploads/products/product_242_1787861659.webp"
     },
     {
       "id": 243,
@@ -2609,8 +2886,9 @@
       "nameEn": "PISTACHIO",
       "description": "",
       "price": 144.0,
-      "image": "uploads/products/product_243_1787861632.jpg",
-      "imageAlt": "uploads/1783277626_Gemini_Generated_Image_noejufnoejufnoej.webp"
+      "image": "assets/optimized/products/product-243.jpg",
+      "imageAlt": "uploads/1783277626_Gemini_Generated_Image_noejufnoejufnoej.webp",
+      "originalImage": "uploads/products/product_243_1787861632.jpg"
     },
     {
       "id": 244,
@@ -2619,8 +2897,9 @@
       "nameEn": "LOTUS",
       "description": "",
       "price": 120.0,
-      "image": "uploads/products/product_244_1787861542.webp",
-      "imageAlt": "uploads/1783277676_Gemini_Generated_Image_8n3w3a8n3w3a8n3w.webp"
+      "image": "assets/optimized/products/product-244.jpg",
+      "imageAlt": "uploads/1783277676_Gemini_Generated_Image_8n3w3a8n3w3a8n3w.webp",
+      "originalImage": "uploads/products/product_244_1787861542.webp"
     },
     {
       "id": 245,
@@ -2629,8 +2908,9 @@
       "nameEn": "TIRAMISU",
       "description": "",
       "price": 120.0,
-      "image": "uploads/products/product_245_1787861502.webp",
-      "imageAlt": "uploads/1783277693_Gemini_Generated_Image_lm7stzlm7stzlm7s.webp"
+      "image": "assets/optimized/products/product-245.jpg",
+      "imageAlt": "uploads/1783277693_Gemini_Generated_Image_lm7stzlm7stzlm7s.webp",
+      "originalImage": "uploads/products/product_245_1787861502.webp"
     },
     {
       "id": 246,
@@ -2639,8 +2919,9 @@
       "nameEn": "COOKIES",
       "description": "",
       "price": 120.0,
-      "image": "uploads/products/product_246_1787861473.webp",
-      "imageAlt": "uploads/1783277708_Gemini_Generated_Image_jactjgjactjgjact.webp"
+      "image": "assets/optimized/products/product-246.jpg",
+      "imageAlt": "uploads/1783277708_Gemini_Generated_Image_jactjgjactjgjact.webp",
+      "originalImage": "uploads/products/product_246_1787861473.webp"
     },
     {
       "id": 247,
@@ -2649,8 +2930,9 @@
       "nameEn": "Brownies",
       "description": "",
       "price": 144.0,
-      "image": "uploads/products/product_247_1787861428.webp",
-      "imageAlt": "uploads/1783277720_Gemini_Generated_Image_jactjgjactjgjact.webp"
+      "image": "assets/optimized/products/product-247.jpg",
+      "imageAlt": "uploads/1783277720_Gemini_Generated_Image_jactjgjactjgjact.webp",
+      "originalImage": "uploads/products/product_247_1787861428.webp"
     },
     {
       "id": 248,
@@ -2659,8 +2941,9 @@
       "nameEn": "Pistachio Strawberry",
       "description": "",
       "price": 144.0,
-      "image": "uploads/products/product_248_1787861390.jpg",
-      "imageAlt": "uploads/1783277733_Gemini_Generated_Image_k1c1hrk1c1hrk1c1.webp"
+      "image": "assets/optimized/products/product-248.jpg",
+      "imageAlt": "uploads/1783277733_Gemini_Generated_Image_k1c1hrk1c1hrk1c1.webp",
+      "originalImage": "uploads/products/product_248_1787861390.jpg"
     },
     {
       "id": 249,
@@ -2669,8 +2952,9 @@
       "nameEn": "Berry Yougurt",
       "description": "",
       "price": 117.0,
-      "image": "uploads/products/product_249_1787861246.jpg",
-      "imageAlt": "uploads/1783277747_Gemini_Generated_Image_sf07ijsf07ijsf07.webp"
+      "image": "assets/optimized/products/product-249.jpg",
+      "imageAlt": "uploads/1783277747_Gemini_Generated_Image_sf07ijsf07ijsf07.webp",
+      "originalImage": "uploads/products/product_249_1787861246.jpg"
     },
     {
       "id": 250,
@@ -2679,8 +2963,9 @@
       "nameEn": "CLASSIC",
       "description": "فانيايا - فراوله - شوكليت - مانجا - كراميل",
       "price": 105.0,
-      "image": "uploads/1783277759_Gemini_Generated_Image_9eb40r9eb40r9eb4.webp",
-      "imageAlt": "uploads/1783277759_Gemini_Generated_Image_9eb40r9eb40r9eb4.webp"
+      "image": "assets/optimized/products/product-250.jpg",
+      "imageAlt": "uploads/1783277759_Gemini_Generated_Image_9eb40r9eb40r9eb4.webp",
+      "originalImage": "uploads/1783277759_Gemini_Generated_Image_9eb40r9eb40r9eb4.webp"
     },
     {
       "id": 251,
@@ -2689,8 +2974,9 @@
       "nameEn": "ICE CREAM ONE SCOOP",
       "description": "",
       "price": 34.0,
-      "image": "uploads/products/product_251_1787779764.webp",
-      "imageAlt": "uploads/1783277770_1 ????.webp"
+      "image": "assets/optimized/products/product-251.jpg",
+      "imageAlt": "uploads/1783277770_1 ????.webp",
+      "originalImage": "uploads/products/product_251_1787779764.webp"
     },
     {
       "id": 252,
@@ -2699,8 +2985,9 @@
       "nameEn": "FESTIVAL",
       "description": "",
       "price": 171.0,
-      "image": "uploads/products/product_252_1787779728.webp",
-      "imageAlt": "uploads/1783277795_???????.webp"
+      "image": "assets/optimized/products/product-252.jpg",
+      "imageAlt": "uploads/1783277795_???????.webp",
+      "originalImage": "uploads/products/product_252_1787779728.webp"
     },
     {
       "id": 253,
@@ -2709,8 +2996,9 @@
       "nameEn": "NUTS",
       "description": "",
       "price": 158.0,
-      "image": "uploads/products/product_253_1787779700.webp",
-      "imageAlt": "uploads/1783277803_??? ??????.webp"
+      "image": "assets/optimized/products/product-253.jpg",
+      "imageAlt": "uploads/1783277803_??? ??????.webp",
+      "originalImage": "uploads/products/product_253_1787779700.webp"
     },
     {
       "id": 254,
@@ -2719,8 +3007,9 @@
       "nameEn": "MIX CHOCOLATE",
       "description": "",
       "price": 171.0,
-      "image": "uploads/products/product_254_1787779654.webp",
-      "imageAlt": "uploads/1783277813_???? ??????.webp"
+      "image": "assets/optimized/products/product-254.jpg",
+      "imageAlt": "uploads/1783277813_???? ??????.webp",
+      "originalImage": "uploads/products/product_254_1787779654.webp"
     },
     {
       "id": 255,
@@ -2729,8 +3018,9 @@
       "nameEn": "MIX FLAVOR",
       "description": "",
       "price": 125.0,
-      "image": "uploads/products/product_255_1787779634.webp",
-      "imageAlt": "uploads/1783277823_???? ???.webp"
+      "image": "assets/optimized/products/product-255.jpg",
+      "imageAlt": "uploads/1783277823_???? ???.webp",
+      "originalImage": "uploads/products/product_255_1787779634.webp"
     },
     {
       "id": 256,
@@ -2739,8 +3029,9 @@
       "nameEn": "FRUITS",
       "description": "",
       "price": 128.0,
-      "image": "uploads/products/product_256_1787779593.webp",
-      "imageAlt": "uploads/1783277832_???? ?????.webp"
+      "image": "assets/optimized/products/product-256.jpg",
+      "imageAlt": "uploads/1783277832_???? ?????.webp",
+      "originalImage": "uploads/products/product_256_1787779593.webp"
     },
     {
       "id": 257,
@@ -2749,8 +3040,9 @@
       "nameEn": "CLASSIC",
       "description": "",
       "price": 100.0,
-      "image": "uploads/products/product_257_1787779575.webp",
-      "imageAlt": "uploads/1783277840_??? ???? ??????.webp"
+      "image": "assets/optimized/products/product-257.jpg",
+      "imageAlt": "uploads/1783277840_??? ???? ??????.webp",
+      "originalImage": "uploads/products/product_257_1787779575.webp"
     },
     {
       "id": 258,
@@ -2759,8 +3051,9 @@
       "nameEn": "DATES WITH MILK",
       "description": "",
       "price": 92.0,
-      "image": "uploads/products/product_258_1787780692.webp",
-      "imageAlt": "uploads/1783277864_??? ?????.webp"
+      "image": "assets/optimized/products/product-258.jpg",
+      "imageAlt": "uploads/1783277864_??? ?????.webp",
+      "originalImage": "uploads/products/product_258_1787780692.webp"
     },
     {
       "id": 259,
@@ -2769,8 +3062,9 @@
       "nameEn": "BANANA WITH MILK",
       "description": "",
       "price": 85.0,
-      "image": "uploads/products/product_259_1787780667.webp",
-      "imageAlt": "uploads/1783277877_??? ?????.webp"
+      "image": "assets/optimized/products/product-259.jpg",
+      "imageAlt": "uploads/1783277877_??? ?????.webp",
+      "originalImage": "uploads/products/product_259_1787780667.webp"
     },
     {
       "id": 260,
@@ -2779,8 +3073,9 @@
       "nameEn": "LEMON-MINT",
       "description": "",
       "price": 72.0,
-      "image": "uploads/products/product_260_1787780641.jpg",
-      "imageAlt": "uploads/1783277919_Gemini_Generated_Image_jvbnarjvbnarjvbn.webp"
+      "image": "assets/optimized/products/product-260.jpg",
+      "imageAlt": "uploads/1783277919_Gemini_Generated_Image_jvbnarjvbnarjvbn.webp",
+      "originalImage": "uploads/products/product_260_1787780641.jpg"
     },
     {
       "id": 261,
@@ -2789,8 +3084,9 @@
       "nameEn": "LEMON",
       "description": "",
       "price": 67.0,
-      "image": "uploads/products/product_261_1787780558.webp",
-      "imageAlt": "uploads/1783278128_?????.webp"
+      "image": "assets/optimized/products/product-261.jpg",
+      "imageAlt": "uploads/1783278128_?????.webp",
+      "originalImage": "uploads/products/product_261_1787780558.webp"
     },
     {
       "id": 262,
@@ -2799,8 +3095,9 @@
       "nameEn": "AVOCADO",
       "description": "",
       "price": 118.0,
-      "image": "uploads/products/product_262_1787780512.webp",
-      "imageAlt": "uploads/1783278158_Gemini_Generated_Image_47glr547glr547gl.webp"
+      "image": "assets/optimized/products/product-262.jpg",
+      "imageAlt": "uploads/1783278158_Gemini_Generated_Image_47glr547glr547gl.webp",
+      "originalImage": "uploads/products/product_262_1787780512.webp"
     },
     {
       "id": 263,
@@ -2809,8 +3106,9 @@
       "nameEn": "POMEGRANATE.",
       "description": "",
       "price": 85.0,
-      "image": "uploads/products/product_263_1787780446.webp",
-      "imageAlt": "uploads/1783278185_????.webp"
+      "image": "assets/optimized/products/product-263.jpg",
+      "imageAlt": "uploads/1783278185_????.webp",
+      "originalImage": "uploads/products/product_263_1787780446.webp"
     },
     {
       "id": 264,
@@ -2819,8 +3117,9 @@
       "nameEn": "PINEAPPLE",
       "description": "",
       "price": 92.0,
-      "image": "uploads/products/product_264_1787780395.webp",
-      "imageAlt": "uploads/1783278193_??????.webp"
+      "image": "assets/optimized/products/product-264.jpg",
+      "imageAlt": "uploads/1783278193_??????.webp",
+      "originalImage": "uploads/products/product_264_1787780395.webp"
     },
     {
       "id": 265,
@@ -2829,8 +3128,9 @@
       "nameEn": "WATERMELON",
       "description": "",
       "price": 85.0,
-      "image": "uploads/products/product_265_1787780370.webp",
-      "imageAlt": "uploads/1783278201_????.webp"
+      "image": "assets/optimized/products/product-265.jpg",
+      "imageAlt": "uploads/1783278201_????.webp",
+      "originalImage": "uploads/products/product_265_1787780370.webp"
     },
     {
       "id": 266,
@@ -2839,8 +3139,9 @@
       "nameEn": "CANTALOUP",
       "description": "",
       "price": 85.0,
-      "image": "uploads/products/product_266_1787780318.webp",
-      "imageAlt": "uploads/1783278209_??????.webp"
+      "image": "assets/optimized/products/product-266.jpg",
+      "imageAlt": "uploads/1783278209_??????.webp",
+      "originalImage": "uploads/products/product_266_1787780318.webp"
     },
     {
       "id": 267,
@@ -2849,8 +3150,9 @@
       "nameEn": "ORANGE",
       "description": "",
       "price": 79.0,
-      "image": "uploads/products/product_267_1787780296.webp",
-      "imageAlt": "uploads/1783278216_??????.webp"
+      "image": "assets/optimized/products/product-267.jpg",
+      "imageAlt": "uploads/1783278216_??????.webp",
+      "originalImage": "uploads/products/product_267_1787780296.webp"
     },
     {
       "id": 268,
@@ -2859,8 +3161,9 @@
       "nameEn": "KIWI",
       "description": "",
       "price": 100.0,
-      "image": "uploads/products/product_268_1787780713.webp",
-      "imageAlt": "uploads/1783278224_????.webp"
+      "image": "assets/optimized/products/product-268.jpg",
+      "imageAlt": "uploads/1783278224_????.webp",
+      "originalImage": "uploads/products/product_268_1787780713.webp"
     },
     {
       "id": 269,
@@ -2869,8 +3172,9 @@
       "nameEn": "STRAWBERRY",
       "description": "",
       "price": 85.0,
-      "image": "uploads/products/product_269_1787780255.webp",
-      "imageAlt": "uploads/1783278231_??????.webp"
+      "image": "assets/optimized/products/product-269.jpg",
+      "imageAlt": "uploads/1783278231_??????.webp",
+      "originalImage": "uploads/products/product_269_1787780255.webp"
     },
     {
       "id": 270,
@@ -2879,8 +3183,9 @@
       "nameEn": "GUAVA",
       "description": "",
       "price": 85.0,
-      "image": "uploads/products/product_270_1787780193.jpg",
-      "imageAlt": "uploads/1783278353_Gemini_Generated_Image_8p6nwa8p6nwa8p6n.webp"
+      "image": "assets/optimized/products/product-270.jpg",
+      "imageAlt": "uploads/1783278353_Gemini_Generated_Image_8p6nwa8p6nwa8p6n.webp",
+      "originalImage": "uploads/products/product_270_1787780193.jpg"
     },
     {
       "id": 271,
@@ -2889,8 +3194,9 @@
       "nameEn": "MANGO",
       "description": "",
       "price": 92.0,
-      "image": "uploads/products/product_271_1787780075.webp",
-      "imageAlt": "uploads/1783278254_?????.webp"
+      "image": "assets/optimized/products/product-271.jpg",
+      "imageAlt": "uploads/1783278254_?????.webp",
+      "originalImage": "uploads/products/product_271_1787780075.webp"
     },
     {
       "id": 272,
@@ -2899,8 +3205,9 @@
       "nameEn": "VOLCANO COCKTAIL",
       "description": "",
       "price": 100.0,
-      "image": "uploads/products/product_272_1787865319.webp",
-      "imageAlt": "uploads/1783278548_Gemini_Generated_Image_iabiofiabiofiabi.webp"
+      "image": "assets/optimized/products/product-272.jpg",
+      "imageAlt": "uploads/1783278548_Gemini_Generated_Image_iabiofiabiofiabi.webp",
+      "originalImage": "uploads/products/product_272_1787865319.webp"
     },
     {
       "id": 273,
@@ -2909,8 +3216,9 @@
       "nameEn": "SOUR COCKTAIL",
       "description": "",
       "price": 100.0,
-      "image": "uploads/products/product_273_1787865257.webp",
-      "imageAlt": "uploads/1783278515_Gemini_Generated_Image_bpfswtbpfswtbpfs.webp"
+      "image": "assets/optimized/products/product-273.jpg",
+      "imageAlt": "uploads/1783278515_Gemini_Generated_Image_bpfswtbpfswtbpfs.webp",
+      "originalImage": "uploads/products/product_273_1787865257.webp"
     },
     {
       "id": 274,
@@ -2919,8 +3227,9 @@
       "nameEn": "GREEN TWIST",
       "description": "",
       "price": 92.0,
-      "image": "uploads/products/product_274_1787865241.webp",
-      "imageAlt": "uploads/1783278500_Gemini_Generated_Image_210fu5210fu5210f.webp"
+      "image": "assets/optimized/products/product-274.jpg",
+      "imageAlt": "uploads/1783278500_Gemini_Generated_Image_210fu5210fu5210f.webp",
+      "originalImage": "uploads/products/product_274_1787865241.webp"
     },
     {
       "id": 275,
@@ -2929,8 +3238,9 @@
       "nameEn": "PLUM GRAPES",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_275_1787865184.webp",
-      "imageAlt": "uploads/1783278488_Gemini_Generated_Image_k0nzdzk0nzdzk0nz.webp"
+      "image": "assets/optimized/products/product-275.jpg",
+      "imageAlt": "uploads/1783278488_Gemini_Generated_Image_k0nzdzk0nzdzk0nz.webp",
+      "originalImage": "uploads/products/product_275_1787865184.webp"
     },
     {
       "id": 276,
@@ -2939,8 +3249,9 @@
       "nameEn": "PINACOLADA",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_276_1787865202.webp",
-      "imageAlt": "uploads/1783278443_Gemini_Generated_Image_3eyea63eyea63eye.webp"
+      "image": "assets/optimized/products/product-276.jpg",
+      "imageAlt": "uploads/1783278443_Gemini_Generated_Image_3eyea63eyea63eye.webp",
+      "originalImage": "uploads/products/product_276_1787865202.webp"
     },
     {
       "id": 277,
@@ -2949,8 +3260,9 @@
       "nameEn": "FLORIDA",
       "description": "",
       "price": 92.0,
-      "image": "uploads/products/product_277_1787865286.webp",
-      "imageAlt": "uploads/1783278428_Gemini_Generated_Image_210fu5210fu5210f.webp"
+      "image": "assets/optimized/products/product-277.jpg",
+      "imageAlt": "uploads/1783278428_Gemini_Generated_Image_210fu5210fu5210f.webp",
+      "originalImage": "uploads/products/product_277_1787865286.webp"
     },
     {
       "id": 278,
@@ -2959,8 +3271,9 @@
       "nameEn": "AVOCADO COCKTAIL",
       "description": "",
       "price": 158.0,
-      "image": "uploads/products/product_278_1787865128.webp",
-      "imageAlt": "uploads/1783278414_Gemini_Generated_Image_47glr547glr547gl.webp"
+      "image": "assets/optimized/products/product-278.jpg",
+      "imageAlt": "uploads/1783278414_Gemini_Generated_Image_47glr547glr547gl.webp",
+      "originalImage": "uploads/products/product_278_1787865128.webp"
     },
     {
       "id": 279,
@@ -2969,8 +3282,9 @@
       "nameEn": "CARNVAL COCKTAIL",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_279_1787865350.webp",
-      "imageAlt": "uploads/1783278407_Gemini_Generated_Image_bpfswtbpfswtbpfs.webp"
+      "image": "assets/optimized/products/product-279.jpg",
+      "imageAlt": "uploads/1783278407_Gemini_Generated_Image_bpfswtbpfswtbpfs.webp",
+      "originalImage": "uploads/products/product_279_1787865350.webp"
     },
     {
       "id": 280,
@@ -2979,8 +3293,9 @@
       "nameEn": "POWER COCKTAIL",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_280_1787865161.webp",
-      "imageAlt": "uploads/1783278401_Gemini_Generated_Image_9ebo5i9ebo5i9ebo.webp"
+      "image": "assets/optimized/products/product-280.jpg",
+      "imageAlt": "uploads/1783278401_Gemini_Generated_Image_9ebo5i9ebo5i9ebo.webp",
+      "originalImage": "uploads/products/product_280_1787865161.webp"
     },
     {
       "id": 281,
@@ -2989,8 +3304,9 @@
       "nameEn": "PASSION FRUITS",
       "description": "",
       "price": 100.0,
-      "image": "uploads/products/product_281_1787865144.webp",
-      "imageAlt": "uploads/1783278394_Gemini_Generated_Image_ovx3g7ovx3g7ovx3.webp"
+      "image": "assets/optimized/products/product-281.jpg",
+      "imageAlt": "uploads/1783278394_Gemini_Generated_Image_ovx3g7ovx3g7ovx3.webp",
+      "originalImage": "uploads/products/product_281_1787865144.webp"
     },
     {
       "id": 282,
@@ -2999,8 +3315,9 @@
       "nameEn": "FRAPPE TIVOLI",
       "description": "",
       "price": 115.0,
-      "image": "uploads/products/product_282_1787864811.webp",
-      "imageAlt": "uploads/1783278573_?????? ??????.webp"
+      "image": "assets/optimized/products/product-282.jpg",
+      "imageAlt": "uploads/1783278573_?????? ??????.webp",
+      "originalImage": "uploads/products/product_282_1787864811.webp"
     },
     {
       "id": 283,
@@ -3009,8 +3326,9 @@
       "nameEn": "FRAPPE TERAMISU",
       "description": "",
       "price": 110.0,
-      "image": "uploads/products/product_283_1787864834.webp",
-      "imageAlt": "uploads/1783278582_?????? ???????.webp"
+      "image": "assets/optimized/products/product-283.jpg",
+      "imageAlt": "uploads/1783278582_?????? ???????.webp",
+      "originalImage": "uploads/products/product_283_1787864834.webp"
     },
     {
       "id": 284,
@@ -3019,8 +3337,9 @@
       "nameEn": "FRAPPE FRUITS",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_284_1787864866.webp",
-      "imageAlt": "uploads/1783278589_Gemini_Generated_Image_mp680cmp680cmp68.webp"
+      "image": "assets/optimized/products/product-284.jpg",
+      "imageAlt": "uploads/1783278589_Gemini_Generated_Image_mp680cmp680cmp68.webp",
+      "originalImage": "uploads/products/product_284_1787864866.webp"
     },
     {
       "id": 285,
@@ -3029,8 +3348,9 @@
       "nameEn": "FRAPPE BROWNIES",
       "description": "",
       "price": 110.0,
-      "image": "uploads/products/product_285_1787864755.webp",
-      "imageAlt": "uploads/1783278602_ChatGPT Image 27 ????? 2026? 08_02_05 ?.webp"
+      "image": "assets/optimized/products/product-285.jpg",
+      "imageAlt": "uploads/1783278602_ChatGPT Image 27 ????? 2026? 08_02_05 ?.webp",
+      "originalImage": "uploads/products/product_285_1787864755.webp"
     },
     {
       "id": 286,
@@ -3039,8 +3359,9 @@
       "nameEn": "FRAPPE COOCKIES",
       "description": "",
       "price": 110.0,
-      "image": "uploads/products/product_286_1787864904.webp",
-      "imageAlt": "uploads/1783278610_ChatGPT Image 27 ????? 2026? 08_02_05 ?.webp"
+      "image": "assets/optimized/products/product-286.jpg",
+      "imageAlt": "uploads/1783278610_ChatGPT Image 27 ????? 2026? 08_02_05 ?.webp",
+      "originalImage": "uploads/products/product_286_1787864904.webp"
     },
     {
       "id": 287,
@@ -3049,8 +3370,9 @@
       "nameEn": "PISTACHIO",
       "description": "",
       "price": 133.0,
-      "image": "uploads/products/product_287_1787864974.jpg",
-      "imageAlt": "uploads/1783278629_Gemini_Generated_Image_noejufnoejufnoej.webp"
+      "image": "assets/optimized/products/product-287.jpg",
+      "imageAlt": "uploads/1783278629_Gemini_Generated_Image_noejufnoejufnoej.webp",
+      "originalImage": "uploads/products/product_287_1787864974.jpg"
     },
     {
       "id": 288,
@@ -3059,8 +3381,9 @@
       "nameEn": "MOCCA FRAPPE",
       "description": "",
       "price": 110.0,
-      "image": "uploads/products/product_288_1787864945.webp",
-      "imageAlt": "uploads/1783278729_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp"
+      "image": "assets/optimized/products/product-288.jpg",
+      "imageAlt": "uploads/1783278729_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp",
+      "originalImage": "uploads/products/product_288_1787864945.webp"
     },
     {
       "id": 289,
@@ -3069,8 +3392,9 @@
       "nameEn": "FRAPPE",
       "description": "",
       "price": 102.0,
-      "image": "uploads/products/product_289_1787864715.webp",
-      "imageAlt": "uploads/1783278738_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp"
+      "image": "assets/optimized/products/product-289.jpg",
+      "imageAlt": "uploads/1783278738_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp",
+      "originalImage": "uploads/products/product_289_1787864715.webp"
     },
     {
       "id": 290,
@@ -3079,8 +3403,9 @@
       "nameEn": "FRAPPUCCINO",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_290_1787864679.webp",
-      "imageAlt": "uploads/1783278744_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp"
+      "image": "assets/optimized/products/product-290.jpg",
+      "imageAlt": "uploads/1783278744_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp",
+      "originalImage": "uploads/products/product_290_1787864679.webp"
     },
     {
       "id": 291,
@@ -3089,8 +3414,9 @@
       "nameEn": "ICE KINDER COFFEE",
       "description": "",
       "price": 125.0,
-      "image": "uploads/products/product_291_1787864215.webp",
-      "imageAlt": "uploads/1783278861_Gemini_Generated_Image_e6rkrye6rkrye6rk.webp"
+      "image": "assets/optimized/products/product-291.jpg",
+      "imageAlt": "uploads/1783278861_Gemini_Generated_Image_e6rkrye6rkrye6rk.webp",
+      "originalImage": "uploads/products/product_291_1787864215.webp"
     },
     {
       "id": 292,
@@ -3099,8 +3425,9 @@
       "nameEn": "ICE LOTUS COFFEE",
       "description": "",
       "price": 125.0,
-      "image": "uploads/products/product_292_1787864644.webp",
-      "imageAlt": "uploads/1783278885_Gemini_Generated_Image_26wex626wex626we.webp"
+      "image": "assets/optimized/products/product-292.jpg",
+      "imageAlt": "uploads/1783278885_Gemini_Generated_Image_26wex626wex626we.webp",
+      "originalImage": "uploads/products/product_292_1787864644.webp"
     },
     {
       "id": 293,
@@ -3109,8 +3436,9 @@
       "nameEn": "ICE CARAMEL COFFEE",
       "description": "",
       "price": 112.0,
-      "image": "uploads/products/product_293_1787864018.webp",
-      "imageAlt": "uploads/1783278906_Gemini_Generated_Image_gx0xj3gx0xj3gx0x.webp"
+      "image": "assets/optimized/products/product-293.jpg",
+      "imageAlt": "uploads/1783278906_Gemini_Generated_Image_gx0xj3gx0xj3gx0x.webp",
+      "originalImage": "uploads/products/product_293_1787864018.webp"
     },
     {
       "id": 294,
@@ -3119,8 +3447,9 @@
       "nameEn": "ICE PISTACHIO COFFEE",
       "description": "",
       "price": 133.0,
-      "image": "uploads/products/product_294_1787864618.jpg",
-      "imageAlt": "uploads/1783278933_Gemini_Generated_Image_noejufnoejufnoej.webp"
+      "image": "assets/optimized/products/product-294.jpg",
+      "imageAlt": "uploads/1783278933_Gemini_Generated_Image_noejufnoejufnoej.webp",
+      "originalImage": "uploads/products/product_294_1787864618.jpg"
     },
     {
       "id": 295,
@@ -3129,8 +3458,9 @@
       "nameEn": "ICE MOCCA",
       "description": "",
       "price": 101.0,
-      "image": "uploads/products/product_295_1787864533.webp",
-      "imageAlt": "uploads/1783279007_ChatGPT Image 27 ????? 2026? 07_42_51 ?.webp"
+      "image": "assets/optimized/products/product-295.jpg",
+      "imageAlt": "uploads/1783279007_ChatGPT Image 27 ????? 2026? 07_42_51 ?.webp",
+      "originalImage": "uploads/products/product_295_1787864533.webp"
     },
     {
       "id": 296,
@@ -3139,8 +3469,9 @@
       "nameEn": "ICE SPANICH LATTE",
       "description": "",
       "price": 112.0,
-      "image": "uploads/products/product_296_1787863984.webp",
-      "imageAlt": "uploads/1783279024_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp"
+      "image": "assets/optimized/products/product-296.jpg",
+      "imageAlt": "uploads/1783279024_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp",
+      "originalImage": "uploads/products/product_296_1787863984.webp"
     },
     {
       "id": 297,
@@ -3149,8 +3480,9 @@
       "nameEn": "ICE LATTE",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_297_1787864583.webp",
-      "imageAlt": "uploads/1783279032_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp"
+      "image": "assets/optimized/products/product-297.jpg",
+      "imageAlt": "uploads/1783279032_ChatGPT Image 27 ????? 2026? 07_52_24 ?.webp",
+      "originalImage": "uploads/products/product_297_1787864583.webp"
     },
     {
       "id": 298,
@@ -3159,8 +3491,9 @@
       "nameEn": "TEAPOT",
       "description": "",
       "price": 91.0,
-      "image": "uploads/products/product_298_1787860288.jpeg",
-      "imageAlt": "uploads/1783279060_1783197418_???? ???.jpeg"
+      "image": "assets/optimized/products/product-298.jpg",
+      "imageAlt": "uploads/1783279060_1783197418_???? ???.jpeg",
+      "originalImage": "uploads/products/product_298_1787860288.jpeg"
     },
     {
       "id": 299,
@@ -3169,8 +3502,9 @@
       "nameEn": "SALEP WITH NUTS",
       "description": "",
       "price": 118.0,
-      "image": "uploads/products/product_299_1787860247.jpeg",
-      "imageAlt": "uploads/1783279092_1783197278_????.webp"
+      "image": "assets/optimized/products/product-299.jpg",
+      "imageAlt": "uploads/1783279092_1783197278_????.webp",
+      "originalImage": "uploads/products/product_299_1787860247.jpeg"
     },
     {
       "id": 300,
@@ -3179,8 +3513,9 @@
       "nameEn": "BALILA WITH NUTS",
       "description": "",
       "price": 133.0,
-      "image": "uploads/products/product_300_1787860189.jpeg",
-      "imageAlt": "uploads/1783279124_1783197395_?????.webp"
+      "image": "assets/optimized/products/product-300.jpg",
+      "imageAlt": "uploads/1783279124_1783197395_?????.webp",
+      "originalImage": "uploads/products/product_300_1787860189.jpeg"
     },
     {
       "id": 301,
@@ -3189,8 +3524,9 @@
       "nameEn": "CHICKPEAS",
       "description": "",
       "price": 101.0,
-      "image": "uploads/products/product_301_1787860101.jpeg",
-      "imageAlt": "uploads/1783279107_1783197286_??? ???.webp"
+      "image": "assets/optimized/products/product-301.jpg",
+      "imageAlt": "uploads/1783279107_1783197286_??? ???.webp",
+      "originalImage": "uploads/products/product_301_1787860101.jpeg"
     },
     {
       "id": 302,
@@ -3199,8 +3535,9 @@
       "nameEn": "HOT PISTACHIO",
       "description": "",
       "price": 118.0,
-      "image": "uploads/products/product_302_1787860059.jpeg",
-      "imageAlt": "uploads/1783279139_1783197429_??? ????.jpeg"
+      "image": "assets/optimized/products/product-302.jpg",
+      "imageAlt": "uploads/1783279139_1783197429_??? ????.jpeg",
+      "originalImage": "uploads/products/product_302_1787860059.jpeg"
     },
     {
       "id": 303,
@@ -3209,8 +3546,9 @@
       "nameEn": "HOT CARAMEL",
       "description": "",
       "price": 101.0,
-      "image": "uploads/products/product_303_1787860029.jpeg",
-      "imageAlt": "uploads/1783279158_1783197094_??????.webp"
+      "image": "assets/optimized/products/product-303.jpg",
+      "imageAlt": "uploads/1783279158_1783197094_??????.webp",
+      "originalImage": "uploads/products/product_303_1787860029.jpeg"
     },
     {
       "id": 304,
@@ -3219,8 +3557,9 @@
       "nameEn": "HOT LOTUS",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_304_1787860004.jpeg",
-      "imageAlt": "uploads/1783279174_1783197082_??? ????.webp"
+      "image": "assets/optimized/products/product-304.jpg",
+      "imageAlt": "uploads/1783279174_1783197082_??? ????.webp",
+      "originalImage": "uploads/products/product_304_1787860004.jpeg"
     },
     {
       "id": 305,
@@ -3229,8 +3568,9 @@
       "nameEn": "NESCAFE",
       "description": "",
       "price": 92.0,
-      "image": "uploads/products/product_305_1787859959.jpeg",
-      "imageAlt": "uploads/1783279197_1783197060_????????.webp"
+      "image": "assets/optimized/products/product-305.jpg",
+      "imageAlt": "uploads/1783279197_1783197060_????????.webp",
+      "originalImage": "uploads/products/product_305_1787859959.jpeg"
     },
     {
       "id": 306,
@@ -3239,8 +3579,9 @@
       "nameEn": "HOT SIDAR",
       "description": "",
       "price": 55.0,
-      "image": "uploads/products/product_306_1787859931.jpeg",
-      "imageAlt": "uploads/1783279216_1783197439_??? ????.jpeg"
+      "image": "assets/optimized/products/product-306.jpg",
+      "imageAlt": "uploads/1783279216_1783197439_??? ????.jpeg",
+      "originalImage": "uploads/products/product_306_1787859931.jpeg"
     },
     {
       "id": 307,
@@ -3249,8 +3590,9 @@
       "nameEn": "FRENCH COFFEE",
       "description": "",
       "price": 63.0,
-      "image": "uploads/products/product_307_1787859882.jpeg",
-      "imageAlt": "uploads/1783279255_1783197303_ChatGPT Image 28 ????? 2026? 07_34_20 ?.webp"
+      "image": "assets/optimized/products/product-307.jpg",
+      "imageAlt": "uploads/1783279255_1783197303_ChatGPT Image 28 ????? 2026? 07_34_20 ?.webp",
+      "originalImage": "uploads/products/product_307_1787859882.jpeg"
     },
     {
       "id": 308,
@@ -3259,8 +3601,9 @@
       "nameEn": "FLAVORED COFFEE",
       "description": "",
       "price": 70.0,
-      "image": "uploads/products/product_308_1787860388.jpeg",
-      "imageAlt": "uploads/1783279382_1783197450_???? ?????.jpeg"
+      "image": "assets/optimized/products/product-308.jpg",
+      "imageAlt": "uploads/1783279382_1783197450_???? ?????.jpeg",
+      "originalImage": "uploads/products/product_308_1787860388.jpeg"
     },
     {
       "id": 309,
@@ -3269,8 +3612,9 @@
       "nameEn": "COFFEE WITH CARDAMOM",
       "description": "",
       "price": 55.0,
-      "image": "uploads/products/product_309_1787859629.jpeg",
-      "imageAlt": "uploads/1783279283_1783197018_???? ????.webp"
+      "image": "assets/optimized/products/product-309.jpg",
+      "imageAlt": "uploads/1783279283_1783197018_???? ????.webp",
+      "originalImage": "uploads/products/product_309_1787859629.jpeg"
     },
     {
       "id": 310,
@@ -3279,8 +3623,9 @@
       "nameEn": "TURKISH COFFEE",
       "description": "",
       "price": 53.0,
-      "image": "uploads/products/product_310_1787859595.jpeg",
-      "imageAlt": "uploads/1783279287_1783197018_???? ????.webp"
+      "image": "assets/optimized/products/product-310.jpg",
+      "imageAlt": "uploads/1783279287_1783197018_???? ????.webp",
+      "originalImage": "uploads/products/product_310_1787859595.jpeg"
     },
     {
       "id": 311,
@@ -3299,8 +3644,9 @@
       "nameEn": "MIXED HERBS",
       "description": "",
       "price": 47.0,
-      "image": "uploads/products/product_312_1787859570.jpeg",
-      "imageAlt": "uploads/1783279312_1783197464_?????.jpeg"
+      "image": "assets/optimized/products/product-312.jpg",
+      "imageAlt": "uploads/1783279312_1783197464_?????.jpeg",
+      "originalImage": "uploads/products/product_312_1787859570.jpeg"
     },
     {
       "id": 313,
@@ -3309,8 +3655,9 @@
       "nameEn": "HERBS",
       "description": "",
       "price": 40.0,
-      "image": "uploads/products/product_313_1787859490.jpeg",
-      "imageAlt": "uploads/1783279327_1783197476_????? ?????? ???????.jpeg"
+      "image": "assets/optimized/products/product-313.jpg",
+      "imageAlt": "uploads/1783279327_1783197476_????? ?????? ???????.jpeg",
+      "originalImage": "uploads/products/product_313_1787859490.jpeg"
     },
     {
       "id": 314,
@@ -3319,8 +3666,9 @@
       "nameEn": "KARK TEA",
       "description": "",
       "price": 46.0,
-      "image": "uploads/products/product_314_1787859400.jpeg",
-      "imageAlt": "uploads/1783279339_1783197003_???.webp"
+      "image": "assets/optimized/products/product-314.jpg",
+      "imageAlt": "uploads/1783279339_1783197003_???.webp",
+      "originalImage": "uploads/products/product_314_1787859400.jpeg"
     },
     {
       "id": 315,
@@ -3329,8 +3677,9 @@
       "nameEn": "FLAVORED TEA",
       "description": "شوكليت- كراميل - بندق",
       "price": 40.0,
-      "image": "uploads/products/product_315_1787859344.jpeg",
-      "imageAlt": "uploads/1783279355_1783197506_??? ?????.jpeg"
+      "image": "assets/optimized/products/product-315.jpg",
+      "imageAlt": "uploads/1783279355_1783197506_??? ?????.jpeg",
+      "originalImage": "uploads/products/product_315_1787859344.jpeg"
     },
     {
       "id": 316,
@@ -3339,8 +3688,9 @@
       "nameEn": "TEA",
       "description": "",
       "price": 35.0,
-      "image": "uploads/products/product_316_1787859316.jpeg",
-      "imageAlt": "uploads/1783279368_1783196990_???.webp"
+      "image": "assets/optimized/products/product-316.jpg",
+      "imageAlt": "uploads/1783279368_1783196990_???.webp",
+      "originalImage": "uploads/products/product_316_1787859316.jpeg"
     },
     {
       "id": 317,
@@ -3409,8 +3759,9 @@
       "nameEn": "AMERICAN COFFEE",
       "description": "",
       "price": 79.0,
-      "image": "uploads/products/product_323_1787864865.webp",
-      "imageAlt": "uploads/1783279506_???????.webp"
+      "image": "assets/optimized/products/product-323.jpg",
+      "imageAlt": "uploads/1783279506_???????.webp",
+      "originalImage": "uploads/products/product_323_1787864865.webp"
     },
     {
       "id": 324,
@@ -3459,8 +3810,9 @@
       "nameEn": "HOT CHOCOLATE STRAWBERRY.",
       "description": "",
       "price": 85.0,
-      "image": "uploads/products/product_328_1787781076.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-328.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_328_1787781076.jpg"
     },
     {
       "id": 329,
@@ -3469,8 +3821,9 @@
       "nameEn": "HOT CHOCOLATE BROWNIES",
       "description": "",
       "price": 95.0,
-      "image": "uploads/products/product_329_1787781054.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-329.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_329_1787781054.jpg"
     },
     {
       "id": 330,
@@ -3479,8 +3832,9 @@
       "nameEn": "HOT CHOCOLATE COOKIES",
       "description": "",
       "price": 95.0,
-      "image": "uploads/products/product_330_1787781030.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-330.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_330_1787781030.jpg"
     },
     {
       "id": 331,
@@ -3489,8 +3843,9 @@
       "nameEn": "HOT CHOCOLATE TIVOLI",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_331_1787781005.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-331.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_331_1787781005.jpg"
     },
     {
       "id": 332,
@@ -3499,8 +3854,9 @@
       "nameEn": "MARSHEMELLO CHOCOLATE",
       "description": "",
       "price": 92.0,
-      "image": "uploads/products/product_332_1787780983.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-332.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_332_1787780983.jpg"
     },
     {
       "id": 333,
@@ -3509,8 +3865,9 @@
       "nameEn": "HOT OREO",
       "description": "",
       "price": 101.0,
-      "image": "uploads/products/product_333_1787780959.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-333.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_333_1787780959.jpg"
     },
     {
       "id": 334,
@@ -3519,8 +3876,9 @@
       "nameEn": "HOT KINDER",
       "description": "",
       "price": 105.0,
-      "image": "uploads/products/product_334_1787780939.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-334.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_334_1787780939.jpg"
     },
     {
       "id": 335,
@@ -3529,8 +3887,9 @@
       "nameEn": "HOT MIX CHOCOLATE",
       "description": "",
       "price": 125.0,
-      "image": "uploads/products/product_335_1787780916.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-335.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_335_1787780916.jpg"
     },
     {
       "id": 336,
@@ -3539,8 +3898,9 @@
       "nameEn": "HOT CHOCOLATE",
       "description": "",
       "price": 85.0,
-      "image": "uploads/products/product_336_1787780884.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-336.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_336_1787780884.jpg"
     },
     {
       "id": 337,
@@ -3549,8 +3909,9 @@
       "nameEn": "MARCHMELLO",
       "description": "",
       "price": 30.0,
-      "image": "uploads/products/product_337_1787858575.jpeg",
-      "imageAlt": "uploads/1783279556_?????????.jpeg"
+      "image": "assets/optimized/products/product-337.jpg",
+      "imageAlt": "uploads/1783279556_?????????.jpeg",
+      "originalImage": "uploads/products/product_337_1787858575.jpeg"
     },
     {
       "id": 338,
@@ -3559,8 +3920,9 @@
       "nameEn": "FRUITS",
       "description": "",
       "price": 48.0,
-      "image": "uploads/products/product_338_1787858473.jpeg",
-      "imageAlt": "uploads/1783279561_?????.jpeg"
+      "image": "assets/optimized/products/product-338.jpg",
+      "imageAlt": "uploads/1783279561_?????.jpeg",
+      "originalImage": "uploads/products/product_338_1787858473.jpeg"
     },
     {
       "id": 339,
@@ -3569,8 +3931,9 @@
       "nameEn": "HONEY",
       "description": "",
       "price": 30.0,
-      "image": "uploads/products/product_339_1787858406.jpeg",
-      "imageAlt": "uploads/1783279566_???.jpeg"
+      "image": "assets/optimized/products/product-339.jpg",
+      "imageAlt": "uploads/1783279566_???.jpeg",
+      "originalImage": "uploads/products/product_339_1787858406.jpeg"
     },
     {
       "id": 340,
@@ -3579,8 +3942,9 @@
       "nameEn": "LOTUS",
       "description": "",
       "price": 54.0,
-      "image": "uploads/products/product_340_1787858512.jpeg",
-      "imageAlt": "uploads/1783279575_????.jpeg"
+      "image": "assets/optimized/products/product-340.jpg",
+      "imageAlt": "uploads/1783279575_????.jpeg",
+      "originalImage": "uploads/products/product_340_1787858512.jpeg"
     },
     {
       "id": 341,
@@ -3589,8 +3953,9 @@
       "nameEn": "PISTACHIO",
       "description": "",
       "price": 60.0,
-      "image": "uploads/products/product_341_1787858441.jpeg",
-      "imageAlt": "uploads/1783279580_????.jpeg"
+      "image": "assets/optimized/products/product-341.jpg",
+      "imageAlt": "uploads/1783279580_????.jpeg",
+      "originalImage": "uploads/products/product_341_1787858441.jpeg"
     },
     {
       "id": 342,
@@ -3599,8 +3964,9 @@
       "nameEn": "NUTS",
       "description": "",
       "price": 60.0,
-      "image": "uploads/products/product_342_1787858603.jpeg",
-      "imageAlt": "uploads/1783279587_??????.jpeg"
+      "image": "assets/optimized/products/product-342.jpg",
+      "imageAlt": "uploads/1783279587_??????.jpeg",
+      "originalImage": "uploads/products/product_342_1787858603.jpeg"
     },
     {
       "id": 343,
@@ -3609,8 +3975,9 @@
       "nameEn": "BIOREH",
       "description": "",
       "price": 38.0,
-      "image": "uploads/products/product_343_1787858900.jpg",
-      "imageAlt": "uploads/1783196543_???????.webp"
+      "image": "assets/optimized/products/product-343.jpg",
+      "imageAlt": "uploads/1783196543_???????.webp",
+      "originalImage": "uploads/products/product_343_1787858900.jpg"
     },
     {
       "id": 344,
@@ -3619,8 +3986,9 @@
       "nameEn": "FLAVOR",
       "description": "",
       "price": 30.0,
-      "image": "uploads/products/product_344_1787858953.jpg",
-      "imageAlt": "uploads/1783279620_1783196295_????? .webp"
+      "image": "assets/optimized/products/product-344.jpg",
+      "imageAlt": "uploads/1783279620_1783196295_????? .webp",
+      "originalImage": "uploads/products/product_344_1787858953.jpg"
     },
     {
       "id": 345,
@@ -3629,8 +3997,9 @@
       "nameEn": "SAUCE",
       "description": "",
       "price": 30.0,
-      "image": "uploads/products/product_345_1787858927.jpg",
-      "imageAlt": "uploads/1783279630_1783196295_????? .webp"
+      "image": "assets/optimized/products/product-345.jpg",
+      "imageAlt": "uploads/1783279630_1783196295_????? .webp",
+      "originalImage": "uploads/products/product_345_1787858927.jpg"
     },
     {
       "id": 346,
@@ -3639,8 +4008,9 @@
       "nameEn": "SLOM HOOKAH",
       "description": "",
       "price": 35.0,
-      "image": "uploads/products/product_346_1787775341.jpeg",
-      "imageAlt": "uploads/1783279649_1783196729_???? copy.webp"
+      "image": "assets/optimized/products/product-346.jpg",
+      "imageAlt": "uploads/1783279649_1783196729_???? copy.webp",
+      "originalImage": "uploads/products/product_346_1787775341.jpeg"
     },
     {
       "id": 347,
@@ -3649,8 +4019,9 @@
       "nameEn": "ASS HOOKAH",
       "description": "",
       "price": 35.0,
-      "image": "uploads/products/product_347_1787775369.jpeg",
-      "imageAlt": "uploads/1783279660_1783196723_?? copy.webp"
+      "image": "assets/optimized/products/product-347.jpg",
+      "imageAlt": "uploads/1783279660_1783196723_?? copy.webp",
+      "originalImage": "uploads/products/product_347_1787775369.jpeg"
     },
     {
       "id": 348,
@@ -3659,8 +4030,9 @@
       "nameEn": "SPECIAL HOOKAH",
       "description": "",
       "price": 150.0,
-      "image": "uploads/products/product_348_1787775314.jpeg",
-      "imageAlt": "uploads/1783279668_1783196714_????.webp"
+      "image": "assets/optimized/products/product-348.jpg",
+      "imageAlt": "uploads/1783279668_1783196714_????.webp",
+      "originalImage": "uploads/products/product_348_1787775314.jpeg"
     },
     {
       "id": 349,
@@ -3669,8 +4041,9 @@
       "nameEn": "CHICKEN PANE",
       "description": "",
       "price": 680.0,
-      "image": "uploads/products/product_349_1787775581.jpg",
-      "imageAlt": "uploads/1783185674_????.jpeg"
+      "image": "assets/optimized/products/product-349.jpg",
+      "imageAlt": "uploads/1783185674_????.jpeg",
+      "originalImage": "uploads/products/product_349_1787775581.jpg"
     },
     {
       "id": 350,
@@ -3679,8 +4052,9 @@
       "nameEn": "BUTTER MEAT",
       "description": "",
       "price": 1330.0,
-      "image": "uploads/products/product_350_1787775551.jpg",
-      "imageAlt": "uploads/1783185464_????.jpeg"
+      "image": "assets/optimized/products/product-350.jpg",
+      "imageAlt": "uploads/1783185464_????.jpeg",
+      "originalImage": "uploads/products/product_350_1787775551.jpg"
     },
     {
       "id": 351,
@@ -3689,8 +4063,9 @@
       "nameEn": "SHISH",
       "description": "",
       "price": 680.0,
-      "image": "uploads/products/product_351_1787775520.jpg",
-      "imageAlt": "uploads/1783185597_????.jpeg"
+      "image": "assets/optimized/products/product-351.jpg",
+      "imageAlt": "uploads/1783185597_????.jpeg",
+      "originalImage": "uploads/products/product_351_1787775520.jpg"
     },
     {
       "id": 352,
@@ -3699,8 +4074,9 @@
       "nameEn": "STEAK LIVER",
       "description": "",
       "price": 900.0,
-      "image": "uploads/products/product_352_1787775493.jpg",
-      "imageAlt": "uploads/1783185525_????.jpeg"
+      "image": "assets/optimized/products/product-352.jpg",
+      "imageAlt": "uploads/1783185525_????.jpeg",
+      "originalImage": "uploads/products/product_352_1787775493.jpg"
     },
     {
       "id": 353,
@@ -3709,8 +4085,9 @@
       "nameEn": "KOFTA",
       "description": "",
       "price": 900.0,
-      "image": "uploads/products/product_353_1787775465.jpg",
-      "imageAlt": "uploads/1783185558_????.jpeg"
+      "image": "assets/optimized/products/product-353.jpg",
+      "imageAlt": "uploads/1783185558_????.jpeg",
+      "originalImage": "uploads/products/product_353_1787775465.jpg"
     },
     {
       "id": 354,
@@ -3719,8 +4096,9 @@
       "nameEn": "KAPAP",
       "description": "",
       "price": 1420.0,
-      "image": "uploads/products/product_354_1787775426.jpg",
-      "imageAlt": "uploads/1783185499_????.jpeg"
+      "image": "assets/optimized/products/product-354.jpg",
+      "imageAlt": "uploads/1783185499_????.jpeg",
+      "originalImage": "uploads/products/product_354_1787775426.jpg"
     },
     {
       "id": 355,
@@ -3729,8 +4107,9 @@
       "nameEn": "Grilled chicken with vegetables and diet soup",
       "description": "",
       "price": 360.0,
-      "image": "uploads/products/product_355_1787777581.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-355.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_355_1787777581.jpg"
     },
     {
       "id": 356,
@@ -3739,8 +4118,9 @@
       "nameEn": "Grilled chicken with vegetables and diet soup",
       "description": "",
       "price": 445.0,
-      "image": "uploads/products/product_356_1787777608.jpg",
-      "imageAlt": null
+      "image": "assets/optimized/products/product-356.jpg",
+      "imageAlt": null,
+      "originalImage": "uploads/products/product_356_1787777608.jpg"
     }
   ]
 }

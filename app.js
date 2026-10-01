@@ -103,6 +103,8 @@ function formatMoney(amount) {
   return `${new Intl.NumberFormat(locale, { maximumFractionDigits: 0 }).format(amount)} ${words[lang].egp}`;
 }
 function photoFor(categoryId) {
+  const categoryPhoto = menuData?.categories.find(category => category.id === categoryId)?.image;
+  if (categoryPhoto) return categoryPhoto;
   const source = categoryId.toUpperCase();
   const match = fallbackPhotos.find(([key]) => source.includes(key));
   if (match) return match[1];
@@ -115,6 +117,7 @@ function photoFor(categoryId) {
 function imageUrl(product) {
   const source = product.image;
   if (source && /^https?:\/\//i.test(source)) return source;
+  if (source && !/^uploads\//i.test(source)) return source;
   if (source && OLD_MEDIA_BASE) return `${OLD_MEDIA_BASE.replace(/\/$/, "")}/${source.replace(/^\//, "")}`;
   return photoFor(product.category);
 }
@@ -148,7 +151,7 @@ function renderMenu() {
     const image = imageUrl(product);
       return `<article class="product-card" style="animation-delay:${Math.min(index, 8) * 30}ms">
       <div class="product-image">
-        <img src="${escapeHtml(image)}" alt="${escapeHtml(names.primary)}" loading="lazy" data-fallback="${escapeHtml(genericPhoto)}">
+        <img src="${escapeHtml(image)}" alt="${escapeHtml(names.primary)}" loading="lazy" data-fallback="${escapeHtml(photoFor(product.category))}">
         <span class="image-shade"></span>
       </div>
       <div class="product-info">

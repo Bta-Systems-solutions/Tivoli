@@ -9,6 +9,8 @@ A responsive, bilingual Arabic/English menu website built from the supplied prod
 - `app.js` — horizontal category navigation, a horizontal product row inside each category, cart, checkout details, language switch, WhatsApp message
 - `menu-data.json` — 356 menu items across 36 categories
 - `assets/tivoli-logo.png` — supplied Tivoli logo
+- `assets/optimized/categories/` — 36 category photos from the earlier Tivoli static site
+- `assets/optimized/products/` — 344 product photos from the earlier Tivoli static site
 
 ## Deploy
 
@@ -20,6 +22,6 @@ The WhatsApp order link is configured for `01280170555` (international format `2
 
 ## Product photos
 
-The spreadsheet includes relative `uploads/...` image paths, but not the image files or the old website's domain. The original paths are retained in `menu-data.json`. In `app.js`, set `OLD_MEDIA_BASE` to the origin that hosts those paths to use the original menu photos. Until then, category fallback photos keep menu cards filled.
+The earlier Tivoli static site contained the optimized menu photos. They are now included locally, so the menu does not depend on the old site's image server. Twelve products without a matching photo use their category photo. Original `uploads/...` paths are retained in each affected product's `originalImage` or `image` field; `OLD_MEDIA_BASE` can still be configured if those originals become available on a server.
 
 To change products or prices, edit `menu-data.json` and keep the existing field names: `id`, `category`, `nameAr`, `nameEn`, `description`, `price`, `image`, and `imageAlt`.
